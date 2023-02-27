@@ -17,15 +17,15 @@ We will be working as a team of 4, with each member taking on specific tasks and
 
 ## Specification:
 
-### [`Functionnal Specification`]()
+### [`Functionnal Specification`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Specifications/Functional_Specifications.md)
 
-### [`Technical Specification`]()
+### [`Technical Specification`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Specifications/Technical_Specifications.md)
 
 ## Tests:
 
-### [`Test Plan`]()
+### [`Test Plan`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Tests/Test_plan.md)
 
-### [`Test Cases`]()
+### [`Test Cases`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Tests/test_case.md)
 
 ## Reports:
 
@@ -45,12 +45,16 @@ We will be working as a team of 4, with each member taking on specific tasks and
 
 ## Management:
 
-### [`Project Calendar`]()
+### [`Project Calendar`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Project_calendar.md)
 
 ### [`Project Communication Plan`]()
 
-### [`Critical Path`]()
-<hr>    
+### [`Critical Path`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Critical_path.md)
+<hr>
+
+### [**`Research`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Research.md)
+
+### [**`KPI`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/KPI.md)
 
 # Contributors:
 
