@@ -29,25 +29,25 @@ We will be working as a team of 4, with each member taking on specific tasks and
 
 ## Reports:
 
-### [`Summary of the Week 1`]()
+### [`Summary of the Week 1`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_1.md)
 
-### [`Summary of the Week 2`]()
+### [`Summary of the Week 2`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_2.md)
 
-### [`Summary of the Week 3`]()
+### [`Summary of the Week 3`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_3.md)
 
-### [`Summary of the Week 4`]()
+### [`Summary of the Week 4`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_4.md)
 
-### [`Summary of the Week 5`]()
+### [`Summary of the Week 5`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_5.md)
 
-### [`Summary of the Week 6`]()
+### [`Summary of the Week 6`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_6.md)
 
-### [`Summary of the Week 7`]()
+### [`Summary of the Week 7`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_7.md)
 
 ## Management:
 
 ### [`Project Calendar`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Project_calendar.md)
 
-### [`Project Communication Plan`]()
+### [`Project Communication Plan`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/communication_plan.md)
 
 ### [`Critical Path`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Critical_path.md)
 <hr>
