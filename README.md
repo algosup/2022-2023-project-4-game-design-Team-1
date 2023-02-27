@@ -29,9 +29,9 @@ We will be working as a team of 4, with each member taking on specific tasks and
 
 ## Reports:
 
-### [`Summary of the Weeks 1`]()
+### [`Summary of the Week 1`]()
 
-### [`Summary of the Weeks 2`]()
+### [`Summary of the Week 2`]()
 
 ### [`Summary of the Week 3`]()
 
@@ -54,17 +54,10 @@ We will be working as a team of 4, with each member taking on specific tasks and
 
 # Contributors:
 
-<img src="https://avatars.githubusercontent.com/u/100137905?v=4" width=150 >
+<img src="https://avatars.githubusercontent.com/u/114394252?v=4" width="150">
 
-### [**`Remy Charles`**](https://github.com/RemyCHARLES)
-##### *Software Engineer *
-<br>
-<br>
-
-<img src="https://avatars.githubusercontent.com/u/91249694?v=4" width="150">
-
-### [**`Alexandre BOBIS`**](https://github.com/AlexandreBobis)
-##### *Tech Lead*
+### [**`Audrey Telliez`**](https://github.com/audreytllz)
+##### *Project Manager*
 <br>
 <br>
 
@@ -75,9 +68,16 @@ We will be working as a team of 4, with each member taking on specific tasks and
 <br>
 <br>
 
-<img src="https://avatars.githubusercontent.com/u/114394252?v=4" width="150">
+<img src="https://avatars.githubusercontent.com/u/91249694?v=4" width="150">
 
-### [**`Audrey Telliez`**](https://github.com/audreytllz)
-##### *Project Manager*
+### [**`Alexandre BOBIS`**](https://github.com/AlexandreBobis)
+##### *Tech Lead*
+<br>
+<br>
+
+<img src="https://avatars.githubusercontent.com/u/100137905?v=4" width=150 >
+
+### [**`Remy Charles`**](https://github.com/RemyCHARLES)
+##### *Software Engineer *
 <br>
 <br>
