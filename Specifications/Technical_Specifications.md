@@ -46,7 +46,9 @@
     - [7. Collision Detection, Physics \& Interaction](#7-collision-detection-physics--interaction)
     - [8. Networking](#8-networking)
     - [9. Audio \& Visual Effects](#9-audio--visual-effects)
-
+  - [Author](#author)
+    - [**`Alexandre BOBIS`**](#alexandre-bobis)
+        - [*Tech Lead*](#tech-lead)
 </details>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -97,3 +99,10 @@
 ### 7. Collision Detection, Physics & Interaction
 ### 8. Networking
 ### 9. Audio & Visual Effects
+
+## Author
+
+<img src="https://avatars.githubusercontent.com/u/91249694?v=4" width="150">
+
+### [**`Alexandre BOBIS`**](https://github.com/AlexandreBobis)
+##### *Tech Lead*
