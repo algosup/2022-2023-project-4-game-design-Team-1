@@ -1,5 +1,13 @@
+<details>
+<summary> Table of content</summary>
 
-# the different means of communication
+- [The different means of communication](#the-different-means-of-communication)
+  - [Frequency of communication](#frequency-of-communication)
+  - [Information to be shared](#information-to-be-shared)
+
+</details>
+
+# The different means of communication
 
 Slack:
 
