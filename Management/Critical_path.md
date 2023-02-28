@@ -38,6 +38,16 @@
 | ID_task | TITLE | "OWNER OF THE TASK" | STARTING DATE | DEADLINE | IMPORTANCE (1 at 5) | TASK COMPLETE (IN %) |
 | :-----: | :---: | :-----------------: | :-----------: | :------: | :-----------------: | :------------------: |
 
+<!--
+Project charter
+Comprehension of the project
+Functional Specifications 
+Technical Specifications
+...
+...
+Test Plan
+...
+-->
 ### 1. WEEK 1
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
@@ -80,6 +90,14 @@
 | ID_task | TITLE | "OWNER OF THE TASK" | STARTING DATE | DEADLINE | IMPORTANCE (1 at 5) | TASK COMPLETE (IN %) |
 | :-----: | :---: | :-----------------: | :-----------: | :------: | :-----------------: | :------------------: |
 
+<!--
+gameplay, scenario
+deliverable
+create base/environment
+create character
+create movment
+prototype
+... -->
 ### 2. WEEK 1
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
@@ -122,6 +140,11 @@
 | ID_task | TITLE | "OWNER OF THE TASK" | STARTING DATE | DEADLINE | IMPORTANCE (1 at 5) | TASK COMPLETE (IN %) |
 | :-----: | :---: | :-----------------: | :-----------: | :------: | :-----------------: | :------------------: |
 
+<!-- 
+Finish the code
+Complete the tests
+Presentation
+-->
 ### 3. WEEK 1
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
