@@ -1,0 +1,158 @@
+<details>
+<summary> Table of content</summary>
+
+- [1. Project definition and planning](#1-project-definition-and-planning)
+  - [1. Tasks asignement](#1-tasks-asignement)
+    - [1. WEEK 1](#1-week-1)
+    - [1. WEEK 2](#1-week-2)
+    - [1. WEEK 3](#1-week-3)
+    - [1. WEEK 4](#1-week-4)
+    - [1. WEEK 5](#1-week-5)
+    - [1. WEEK 6](#1-week-6)
+    - [1. WEEK 7 (last week)](#1-week-7-last-week)
+- [2. Project design](#2-project-design)
+  - [2. Tasks asignement](#2-tasks-asignement)
+    - [2. WEEK 1](#2-week-1)
+    - [2. WEEK 2](#2-week-2)
+    - [2. WEEK 3](#2-week-3)
+    - [2. WEEK 4](#2-week-4)
+    - [2. WEEK 5](#2-week-5)
+    - [2. WEEK 6](#2-week-6)
+    - [2. WEEK 7 (last week)](#2-week-7-last-week)
+- [3. Project finalization](#3-project-finalization)
+  - [3. Tasks asignement](#3-tasks-asignement)
+    - [3. WEEK 1](#3-week-1)
+    - [3. WEEK 2](#3-week-2)
+    - [3. WEEK 3](#3-week-3)
+    - [3. WEEK 4](#3-week-4)
+    - [3. WEEK 5](#3-week-5)
+    - [3. WEEK 6](#3-week-6)
+    - [3. WEEK 7 (last week)](#3-week-7-last-week)
+
+</details>
+
+# 1. Project definition and planning
+
+## 1. Tasks asignement
+
+| ID_task | TITLE | "OWNER OF THE TASK" | STARTING DATE | DEADLINE | IMPORTANCE (1 at 5) | TASK COMPLETE (IN %) |
+| :-----: | :---: | :-----------------: | :-----------: | :------: | :-----------------: | :------------------: |
+
+### 1. WEEK 1
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 1. WEEK 2
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 1. WEEK 3
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 1. WEEK 4
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 1. WEEK 5
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 1. WEEK 6
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 1. WEEK 7 (last week)
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+# 2. Project design
+
+## 2. Tasks asignement
+
+| ID_task | TITLE | "OWNER OF THE TASK" | STARTING DATE | DEADLINE | IMPORTANCE (1 at 5) | TASK COMPLETE (IN %) |
+| :-----: | :---: | :-----------------: | :-----------: | :------: | :-----------------: | :------------------: |
+
+### 2. WEEK 1
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 2. WEEK 2
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 2. WEEK 3
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 2. WEEK 4
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 2. WEEK 5
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 2. WEEK 6
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 2. WEEK 7 (last week)
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+# 3. Project finalization
+
+## 3. Tasks asignement
+
+| ID_task | TITLE | "OWNER OF THE TASK" | STARTING DATE | DEADLINE | IMPORTANCE (1 at 5) | TASK COMPLETE (IN %) |
+| :-----: | :---: | :-----------------: | :-----------: | :------: | :-----------------: | :------------------: |
+
+### 3. WEEK 1
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 3. WEEK 2
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 3. WEEK 3
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 3. WEEK 4
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 3. WEEK 5
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 3. WEEK 6
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+
+### 3. WEEK 7 (last week)
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
