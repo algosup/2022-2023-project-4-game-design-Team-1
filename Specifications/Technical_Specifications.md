@@ -2,9 +2,9 @@
 
 <h1>Technical Specifications<h1>
 
-<details>
-<summary>
-    📖 Table of contents
+<details style="font-size:50%">
+<summary style="font-size:120%">
+    Table of contents
 </summary>
 
 - [I. 🛠️ Technical Section](#i-️-technical-section)
