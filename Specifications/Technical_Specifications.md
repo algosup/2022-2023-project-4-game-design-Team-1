@@ -3,7 +3,7 @@
 # Technical Specifications
 
 <details>
-<summary style="font-size:150%;">
+<summary style="font-size:150%">
     📖 Table of contents:
 </summary>
 
