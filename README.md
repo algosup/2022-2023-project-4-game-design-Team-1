@@ -85,3 +85,9 @@ We will be working as a team of 4, with each member taking on specific tasks and
 ##### *Software Engineer *
 <br>
 <br>
+
+![Repo Size](https://img.shields.io/github/repo-size/algosup/2022-2023-project-4-game-design-Team-1)
+
+![Last Commit](https://img.shields.io/github/last-commit/algosup/2022-2023-project-4-game-design-Team-1)
+
+![Downloads](https://img.shields.io/github/downloads/algosup/2022-2023-project-4-game-design-Team-1/total)

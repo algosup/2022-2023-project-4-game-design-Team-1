@@ -51,7 +51,7 @@
 
 </details>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
 ## I. 🛠️ Technical Section
 
@@ -79,7 +79,7 @@
 
 ### 9. Other Ideas
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
 ## II. 🎮 Game Section
 
@@ -109,7 +109,7 @@
 
 ### 6. Music and Sounds
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## III. 🎨 Design Section
 
