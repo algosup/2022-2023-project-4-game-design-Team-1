@@ -1,88 +1,104 @@
 # 2022-2023-project-4-game-design-Team-1
 
-# Project Goal:
+## Project Goal
 
 Create a Game.
 
-We will be working as a team of 4, with each member taking on specific tasks and responsibilities. Our project manager is Audrey, and the rest of the team consists of Théo (program manager), Alexandre (tech lead), and Remy (software engineer).
+We will be working as a team of 4, with each member taking on specific tasks and responsibilities. Our project manager is Audrey, and the rest of the team consists of Théo Trouvé (Program Manager), Alexandre Bobis (Tech Lead), and Rémy Charles (Software Engineer).
 
-## Trello boards:
-### [**`Research`**]()
-### [**`Specifications`**]()
-### [**`Development`**]()
-### [**`Tests`**]()
-<hr>
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-# Documents Links
+## Trello boards
 
-## Specification:
+#### [**`Global`**](https://trello.com/b/q6FO5Kex/global)
 
-### [`Functionnal Specification`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Specifications/Functional_Specifications.md)
+#### [**`Research`**](https://trello.com/b/evdOMg0n/research)
 
-### [`Technical Specification`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Specifications/Technical_Specifications.md)
+#### [**`Development`**](https://trello.com/b/XsiKaZ26/dev-part)
 
-## Tests:
+#### [**`Test`**](https://trello.com/b/9EGVAgsh/qa-part)
 
-### [`Test Plan`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Tests/Test_plan.md)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-### [`Test Cases`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Tests/test_case.md)
+## Document Links
 
-## Reports:
+### Specification
 
-### [`Summary of the Week 1`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_1.md)
+#### [`Functionnal Specification`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Specifications/Functional_Specifications.md)
 
-### [`Summary of the Week 2`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_2.md)
+#### [`Technical Specification`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Specifications/Technical_Specifications.md)
 
-### [`Summary of the Week 3`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_3.md)
+### Tests
 
-### [`Summary of the Week 4`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_4.md)
+#### [`Test Plan`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Tests/Test_plan.md)
 
-### [`Summary of the Week 5`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_5.md)
+#### [`Test Cases`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Tests/test_case.md)
 
-### [`Summary of the Week 6`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_6.md)
+### Reports
 
-### [`Summary of the Week 7`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_7.md)
+#### [`Summary of the Week 1`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_1.md)
 
-## Management:
+#### [`Summary of the Week 2`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_2.md)
 
-### [`Project Calendar`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Project_calendar.md)
+#### [`Summary of the Week 3`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_3.md)
 
-### [`Project Communication Plan`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/communication_plan.md)
+#### [`Summary of the Week 4`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_4.md)
 
-### [`Critical Path`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Critical_path.md)
-<hr>
+#### [`Summary of the Week 5`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_5.md)
 
-### [**`Research`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Research.md)
+#### [`Summary of the Week 6`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_6.md)
 
-### [**`KPI`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/KPI.md)
+#### [`Summary of the Week 7`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_7.md)
 
-# Contributors:
+### Management
+
+#### [**`Project Calendar`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Project_calendar.md)
+
+#### [**`Project Communication Plan`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/communication_plan.md)
+
+#### [**`Critical Path`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Critical_path.md)
+
+#### [**`Research`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Research.md)
+
+#### [**`KPI`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/KPI.md)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## Contributors
 
 <img src="https://avatars.githubusercontent.com/u/114394252?v=4" width="150">
 
-### [**`Audrey Telliez`**](https://github.com/audreytllz)
-##### *Project Manager*
+#### [**`Audrey Telliez`**](https://github.com/audreytllz)
+
+###### *Project Manager*
+
 <br>
 <br>
 
 <img src="https://avatars.githubusercontent.com/u/71769486?v=4" width="150">
 
-### [**`Théo Trouvé`**](https://github.com/TheoTr)
-##### *Program Manager*
+#### [**`Théo Trouvé`**](https://github.com/TheoTr)
+
+###### *Program Manager*
+
 <br>
 <br>
 
 <img src="https://avatars.githubusercontent.com/u/91249694?v=4" width="150">
 
-### [**`Alexandre BOBIS`**](https://github.com/AlexandreBobis)
-##### *Tech Lead*
+#### [**`Alexandre BOBIS`**](https://github.com/AlexandreBobis)
+
+###### *Tech Lead*
+
 <br>
 <br>
 
 <img src="https://avatars.githubusercontent.com/u/100137905?v=4" width=150 >
 
-### [**`Remy Charles`**](https://github.com/RemyCHARLES)
-##### *Software Engineer *
+#### [**`Remy Charles`**](https://github.com/RemyCHARLES)
+
+###### *Software Engineer*
+
 <br>
 <br>
 

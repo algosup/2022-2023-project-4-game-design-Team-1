@@ -1,13 +1,18 @@
-<details>
-<summary> Table of content</summary>
+# Communication plan
 
-- [The different means of communication](#the-different-means-of-communication)
+<details>
+<summary style="font-size:150%">
+  📖 Table of Contents
+</summary>
+
+- [Communication plan](#communication-plan)
+  - [The different means of communication](#the-different-means-of-communication)
   - [Frequency of communication](#frequency-of-communication)
   - [Information to be shared](#information-to-be-shared)
 
 </details>
 
-# The different means of communication
+## The different means of communication
 
 Slack:
 
