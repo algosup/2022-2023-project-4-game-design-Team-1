@@ -49,4 +49,4 @@ Weekly:
 - Task assignment
 - Task completion
 - Functionnal specification
-- Technical specification --> 
+- Technical specification -->

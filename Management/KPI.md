@@ -19,6 +19,7 @@
 
 ## 1- KPI
 
+- % of design do
 - % of code
 - % of code documented
 
