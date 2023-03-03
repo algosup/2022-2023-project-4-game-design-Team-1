@@ -17,6 +17,6 @@
 |Assets | [collection](https://quixel.com/megascans/collections) |for the design of the app|
 | Assets | [asset ideas 1](https://quixel.com/megascans/home?environment=medieval)| |
 | Assets | [asset ideas 2](https://quixel.com/megascans/home?category=3D%20asset) | |
-| | | |
+| Mecanics |[mecanics idea](https://www.gamedesigning.org/learn/basic-game-mechanics/#Core-Primary-Secondary-Mechanics) | To find mecanics idea |
 | | | |
 | | | |
