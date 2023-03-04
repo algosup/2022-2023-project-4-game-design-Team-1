@@ -12,8 +12,7 @@
     - [Week 3️⃣](#week-3️⃣)
     - [Week 4️⃣](#week-4️⃣)
     - [Week 5️⃣](#week-5️⃣)
-    - [Week 6️⃣](#week-6️⃣)
-    - [Week 7️⃣ (last week)](#week-7️⃣-last-week)
+    - [Week 6️⃣ (last week)](#week-6️⃣-last-week)
 
 </details>
 
@@ -48,12 +47,7 @@
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
 
-### Week 6️⃣
-
-| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
-| :-----: | :----: | :-----: | :------: | :------: | :----: |
-
-### Week 7️⃣ (last week)
+### Week 6️⃣ (last week)
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
