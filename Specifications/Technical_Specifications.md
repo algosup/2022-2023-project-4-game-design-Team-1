@@ -39,7 +39,7 @@
       - [8.2 🔸 Platforms \& Monetization](#82--platforms--monetization)
       - [8.3 🔸 Localization](#83--localization)
     - [9. Other Ideas](#9-other-ideas)
-  - [II. 🎮 GDD\[^1\] Section](#ii--gdd1-section)
+  - [II. 💻 Game Section](#ii--game-section)
     - [1. Characters](#1-characters)
     - [2. Story](#2-story)
       - [2.1 Theme](#21-theme)
@@ -53,7 +53,7 @@
       - [3.6 🔸 Losing](#36--losing)
     - [4. Art style](#4-art-style)
     - [5. Music and Sounds](#5-music-and-sounds)
-  - [III. 🎨 Design Section](#iii--design-section)
+  - [III. 🎨 GDD\[^1\] Section](#iii--gdd1-section)
     - [1. List of features captured](#1-list-of-features-captured)
     - [2. Choice of game engine](#2-choice-of-game-engine)
     - [3. High-level Diagrams to Illustrate Software Design](#3-high-level-diagrams-to-illustrate-software-design)
@@ -109,7 +109,7 @@ The main devices are PC like Windows, Mac and Linux. The game will be on 2 diffe
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
-## II. 🎮 GDD[^1] Section
+## II. 💻 Game Section
 
 ### 1. Characters
 
@@ -143,7 +143,7 @@ By completing a puzzle and depending on his progress, the player will unlock or 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## III. 🎨 Design Section
+## III. 🎨 GDD[^1] Section
 
 ### 1. List of features captured
 
