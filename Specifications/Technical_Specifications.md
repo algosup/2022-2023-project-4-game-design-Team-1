@@ -181,5 +181,6 @@ Unreal Engine 4.27 comes with several advantages, some of which include:
 ## Glossary
 
 [^1]: **GDD** = Game Design Document
+A Game Design Document (GDD) is a highly descriptive living software design document of the design for a video game. It is created and edited by the development team as result of collaboration between their designers, artists and programmers as a guiding vision which is used throughout the game development process to organize efforts within a development team.
 
 [^2]: **Unreal Engine** (UE) is a game engine designed by Epic Games that utilizes 3D computer graphics, and was initially presented in the 1998 first-person shooter game, Unreal. Originally developed for PC first-person shooter games, it has since been employed in various gaming genres and has been embraced by other industries, such as the film and television industry. Written in C++, Unreal Engine has great adaptability, supporting numerous platforms including desktop, mobile, console, and virtual reality platforms.
