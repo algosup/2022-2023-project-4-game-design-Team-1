@@ -36,6 +36,8 @@
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
+| Morning | X | X | X |Project| X |
+| Afternoon |  Projet | X | X | X | Project |
 
 ### Week 4️⃣
 
