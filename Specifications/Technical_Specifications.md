@@ -2,6 +2,8 @@
 
 # Technical Specifications
 
+> EA, Microsoft, Sony, Ubisoft and other large game companies are highly process-driven and require heavy documentation. It's a big part of how they have achieved success over and over again.
+
 <details>
 <summary style="font-size:150%">
     📖 Table of contents:
@@ -43,8 +45,7 @@
     - [5. Art tools (if there)](#5-art-tools-if-there)
     - [6. 3D Objects, Terrain, \& Scene Management](#6-3d-objects-terrain--scene-management)
     - [7. Collision Detection, Physics \& Interaction](#7-collision-detection-physics--interaction)
-    - [8. Networking](#8-networking)
-    - [9. Audio \& Visual Effects](#9-audio--visual-effects)
+    - [8. Audio \& Visual Effects](#8-audio--visual-effects)
   - [Author](#author)
     - [**`Alexandre BOBIS`**](#alexandre-bobis)
     - [*Tech Lead*](#tech-lead)
@@ -127,9 +128,7 @@
 
 ### 7. Collision Detection, Physics & Interaction
 
-### 8. Networking
-
-### 9. Audio & Visual Effects
+### 8. Audio & Visual Effects
 
 ## Author
 
