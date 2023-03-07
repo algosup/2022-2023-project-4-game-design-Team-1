@@ -30,7 +30,7 @@
 
 </details>
 
-## Mind Maze: Jail Escape Edition
+## Project Title: *Mind Maze: Jail Escape Edition*
 
 ### Theme
 
