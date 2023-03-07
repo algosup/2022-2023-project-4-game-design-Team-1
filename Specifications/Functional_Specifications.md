@@ -1,4 +1,12 @@
+#### ➡️ Click [here](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/main/README.md) to go to the README file
+
 # Functional Specifications
+
+<img src="https://avatars.githubusercontent.com/u/71769486?v=4" width="150">
+
+#### [**`Théo Trouvé`**](https://github.com/TheoTr)
+
+###### *Program Manager*
 
 <details>
 <summary style="font-size:150%">
@@ -6,6 +14,8 @@
 </summary>
 
 - [Functional Specifications](#functional-specifications)
+      - [**`Théo Trouvé`**](#théo-trouvé)
+          - [*Program Manager*](#program-manager)
   - [Mind Maze: Jail Escape Edition](#mind-maze-jail-escape-edition)
     - [Theme](#theme)
     - [Potatoe](#potatoe)
