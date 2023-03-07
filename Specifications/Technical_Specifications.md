@@ -52,7 +52,7 @@
       - [3.5 🔸 Losing](#35--losing)
     - [4. Art style](#4-art-style)
     - [5. Music and Sounds](#5-music-and-sounds)
-  - [III. 🎨 GDD\[^1\] Section](#iii--gdd1-section)
+  - [III. 🎨 GDD\[^2\] Section](#iii--gdd2-section)
     - [1. List of features captured](#1-list-of-features-captured)
     - [2. Choice of game engine](#2-choice-of-game-engine)
     - [3. High-level Diagrams to Illustrate Software Design](#3-high-level-diagrams-to-illustrate-software-design)
@@ -69,6 +69,10 @@
 ## I. 🛠️ Technical Section
 
 ### 1. Project Overview
+
+The goal of this project is to provide a video game.
+In addition, we need to be careful about the game design[^1] of our product.
+
 
 ### 2. Rational
 
@@ -127,7 +131,7 @@ We also thought about new mazes and new puzzles.
 
 #### 2.1 Theme
 
-The story takes place in a prison, our player must escape from this prison and will have to solve the puzzles that will stand in his way.
+The story takes place in a prison, our player must escape from this prison and will have to solve the puzzles that will stand on his way.
 
 #### 2.2 Story Progression
 
@@ -138,11 +142,23 @@ By completing a puzzle and depending on his progress, the player will unlock or 
 #### 3.1 🔸 Goals
 
 The first goal of the player is to escape from the prison.
-Secondly, the player will have to solve the puzzles that will stand in his way.
+The second goal of the player is to solve the puzzles that will stand in his way.
 
 #### 3.2 🔸 User Skills
 
 #### 3.3 🔸 Game mechanics
+
+| Mechanics | Type | Goal of the mechanic |
+| :--- | :--- | :--- |
+| Enigma | Story | A lot of enigmas across the map. The player needs to answer them to escape the jail |
+| Rock | Gameplay | Catchable object. Allows to distract and destroy |
+| Destroyable wall | Contact | Throw a pebble at the small wall to reveal a clue for the puzzle |
+| Friend | Narrative Clue | The player can talk to a friend to get a clue for the puzzle. The friend will be a rat |
+| Flashlight | Gameplay | Can use a flashlight to light up and when he will have to find battery |
+| Beanbag Gun | Gameplay | After stealing it from a guard he can use it to knock out other guards |
+| Hidden Object Hunting | Search & Find | The player must explore the jail environment to find hidden objects that will help them solve the enigmas and escape the prison |
+| Stealth | Avoidance | The player must avoid guards and other obstacles while navigating the prison. They may need to sneak past guards, hide behind objects, or distract guards to progress |
+| Time-based challenges | Timed | The player must complete certain tasks within a set amount of time, such as escaping their cell before the guards return from their patrol |
 
 #### 3.4 🔸 Progression and challenge
 
@@ -154,13 +170,13 @@ Secondly, the player will have to solve the puzzles that will stand in his way.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-## III. 🎨 GDD[^1] Section
+## III. 🎨 GDD[^2] Section
 
 ### 1. List of features captured
 
 ### 2. Choice of game engine
 
-The choice of game engine has been predefined: Unreal Engine 4.27[^2]
+The choice of game engine has been predefined: Unreal Engine 4.27[^3]
 Unreal Engine 4.27 comes with several advantages, some of which include:
 
 - Improved Visual Fidelity: Unreal Engine 4.27 provides developers with enhanced visual quality and fidelity, enabling them to create highly realistic and immersive games and experiences.
@@ -191,7 +207,9 @@ Unreal Engine 4.27 comes with several advantages, some of which include:
 
 ## Glossary
 
-[^1]: **GDD** = Game Design Document <br>
+[^1]: **Game design** is the process of creating and shaping the mechanics, systems, and rules of a game. Games can be created for entertainment, education, exercise, or experimental purposes. Increasingly, elements and principles of game design are also applied to other interactions, in the form of gamification.
+
+[^2]: **GDD** = Game Design Document
 A Game Design Document (GDD) is a highly descriptive living software design document of the design for a video game. It is created and edited by the development team as result of collaboration between their designers, artists and programmers as a guiding vision which is used throughout the game development process to organize efforts within a development team.
 
-[^2]: **Unreal Engine** (UE) is a game engine designed by Epic Games that utilizes 3D computer graphics, and was initially presented in the 1998 first-person shooter game, Unreal. Originally developed for PC first-person shooter games, it has since been employed in various gaming genres and has been embraced by other industries, such as the film and television industry. Written in C++, Unreal Engine has great adaptability, supporting numerous platforms including desktop, mobile, console, and virtual reality platforms.
+[^3]: **Unreal Engine** (UE) is a game engine designed by Epic Games that utilizes 3D computer graphics, and was initially presented in the 1998 first-person shooter game, Unreal. Originally developed for PC first-person shooter games, it has since been employed in various gaming genres and has been embraced by other industries, such as the film and television industry. Written in C++, Unreal Engine has great adaptability, supporting numerous platforms including desktop, mobile, console, and virtual reality platforms.
