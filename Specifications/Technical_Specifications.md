@@ -16,7 +16,7 @@
 
 <details>
 <summary style="font-size:150%">
-    📖 Table of contents:
+    📖 Table of Contents
 </summary>
 
 - [Technical Specifications](#technical-specifications)
