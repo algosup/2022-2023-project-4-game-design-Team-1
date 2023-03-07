@@ -16,7 +16,7 @@
 
 <details>
 <summary style="font-size:150%">
-    📖 Table of contents:
+    📖 Table of Contents
 </summary>
 
 - [Technical Specifications](#technical-specifications)
@@ -48,9 +48,8 @@
       - [3.1 🔸 Goals](#31--goals)
       - [3.2 🔸 User Skills](#32--user-skills)
       - [3.3 🔸 Game mechanics](#33--game-mechanics)
-      - [3.4 🔸 Items and power-ups](#34--items-and-power-ups)
-      - [3.5 🔸 Progression and challenge](#35--progression-and-challenge)
-      - [3.6 🔸 Losing](#36--losing)
+      - [3.4 🔸 Progression and challenge](#34--progression-and-challenge)
+      - [3.5 🔸 Losing](#35--losing)
     - [4. Art style](#4-art-style)
     - [5. Music and Sounds](#5-music-and-sounds)
   - [III. 🎨 GDD\[^1\] Section](#iii--gdd1-section)
@@ -91,9 +90,15 @@ Lisa has never played an escape room or puzzle game before but has heard good th
 
 ### 5. Design and Implementation Plan
 
+- Game Design Document Delivery Date: 2023-03-03
+- Prototype Delivery Date: 2023-03-10
+- Final Product Delivery Date: 2023-04-13
+
 ### 6. Test/Demo Plan
 
 ### 7. Delivery Platform & Hardware Software Requirements
+
+The delivery platform will be PC like Windows, MacOS and Linux. 
 
 ### 8. Marketing & Fundings
 
@@ -105,7 +110,12 @@ The main devices are PC like Windows, Mac and Linux. The game will be on 2 diffe
 
 #### 8.3 🔸 Localization
 
+The game will be in english (and french if we have enough time).
+
 ### 9. Other Ideas
+
+We thought about adding a multiplayer mode where you can play with your friends.
+We also thought about new mazes and new puzzles.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
@@ -127,15 +137,16 @@ By completing a puzzle and depending on his progress, the player will unlock or 
 
 #### 3.1 🔸 Goals
 
+The first goal of the player is to escape from the prison.
+Secondly, the player will have to solve the puzzles that will stand in his way.
+
 #### 3.2 🔸 User Skills
 
 #### 3.3 🔸 Game mechanics
 
-#### 3.4 🔸 Items and power-ups
+#### 3.4 🔸 Progression and challenge
 
-#### 3.5 🔸 Progression and challenge
-
-#### 3.6 🔸 Losing
+#### 3.5 🔸 Losing
 
 ### 4. Art style
 

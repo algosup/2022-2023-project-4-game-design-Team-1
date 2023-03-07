@@ -1,4 +1,12 @@
+#### ➡️ Click [here](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/main/README.md) to go to the README file
+
 # Functional Specifications
+
+<img src="https://avatars.githubusercontent.com/u/71769486?v=4" width="150">
+
+#### [**`Théo Trouvé`**](https://github.com/TheoTr)
+
+###### *Program Manager*
 
 <details>
 <summary style="font-size:150%">
@@ -6,57 +14,86 @@
 </summary>
 
 - [Functional Specifications](#functional-specifications)
-  - [Project Title](#project-title)
-    - [Objectives](#objectives)
-    - [1. Game Mechanics](#1-game-mechanics)
-    - [2. User Interface](#2-user-interface)
-    - [3. Art and Video](#3-art-and-video)
-    - [4. Sound and Music](#4-sound-and-music)
-    - [5. Story (if applicable)](#5-story-if-applicable)
-    - [6. Level Requirements](#6-level-requirements)
-    - [7. Game Demo - Pass/Fail](#7-game-demo---passfail)
+      - [**`Théo Trouvé`**](#théo-trouvé)
+          - [*Program Manager*](#program-manager)
+  - [Mind Maze: Jail Escape Edition](#mind-maze-jail-escape-edition)
+    - [Theme](#theme)
+    - [Potatoe](#potatoe)
+      - [1. Character](#1-character)
+      - [2. Inventory](#2-inventory)
+      - [3. Game Mechanics](#3-game-mechanics)
+      - [4. User Interface](#4-user-interface)
+      - [5. Menu](#5-menu)
+      - [6. Help](#6-help)
+      - [7. Sound](#7-sound)
+      - [8. Save](#8-save)
 
 </details>
 
-## Project Title
+## Project Title: *Mind Maze: Jail Escape Edition*
 
-### Objectives
+### Theme
 
-- Challenge players to escape from a high-security prison using a variety of mechanics and puzzles.
-- Provide a thought-provoking and engaging gameplay experience for players.
-- Create a unique and visually appealing game world.
+- Character
+- Inventory
+- Game Mechanics
+- User Interface
+- Menu
+- Help
+- Sound
+- Save
 
-### 1. Game Mechanics
+#### 1. Character
 
-- The game includes various mechanics such as searching for hidden objects, stealth, time-based challenges, and puzzle-solving.
-- These mechanics are used to create a challenging and thought-provoking experience for players while achieving the objective of escaping from the prison.
+- []: First Person
+- []: Choose your name
 
-### 2. User Interface
+#### 2. Inventory
 
-- The user interface is designed to be simple and intuitive, allowing players to easily navigate and interact with the game world.
-- The interface includes an inventory system for collecting and using items, as well as a map to help players navigate the prison.
+- []: 'I' to open inventory
+- []: Able to see the objects in the inventory
+- []: Select an object in the inventory to move it in the shortcut
+- []: Put object in inventory from shortcut
 
-### 3. Art and Video
+#### 3. Game Mechanics
 
-- Mind Maze: Jail Escape Edition features a range of 3D models, textures, and visual effects to create a visually appealing and immersive game world.
-- The art and video elements are used to enhance the gameplay experience by creating a sense of realism and immersion.
+- []: Move with 'Z', 'Q', 'S', 'D'
+- []: Run with 'Shift'
+- []: Jump with 'Space'
+- []: Grab an object with 'Left Click'
+- []: Interact with an object like door, etc...
+- []: Able to interact with objects in his hand like keys, flashlight, etc...
 
-### 4. Sound and Music
+#### 4. User Interface
 
-- The game includes a range of sound effects and music to create an immersive and engaging audio experience.
-- The sound effects and music are used to enhance the gameplay experience by creating tension and suspense, as well as providing audio feedback for player actions.
+- []: Inventory shortcuts (with 3 spaces)
+- []: Ability to change the object in the shortcut with the mouse 
+- []: Ability to interact with the object in the shortcut/hand
+- []: Ability to switch between the object in the hand and the object in the shortcut with the mouse wheel
 
-### 5. Story (if applicable)
+#### 5. Menu
 
-- The game follows the story of a character who is trapped in a high-security prison and must escape by finding clues, neutralizing people, solving puzzles, and overcoming obstacles.
-- The story is used to create a sense of immersion and provide context for the gameplay experience.
+- []: Launch screen
+  - []: Play button
+  - []: Settings button
+  - []: Credits
+- []: In game
+  - []: Pause button with 'Escape'
+    - []: Settings button
+    - []: Ability to leave and return to the menu
 
-### 6. Level Requirements
+#### 6. Help
 
-- The game includes multiple levels that increase in difficulty as players progress.
-- The levels are designed to challenge players while providing opportunities to use different mechanics and tools to achieve the objective of escaping the prison.
+- []: Help button, to see all shortcuts
+- []: Clues to help the player after an amount of time
 
-### 7. Game Demo - Pass/Fail
+#### 7. Sound
 
-- The game demo should be engaging and challenging, with a clear objective for players to achieve.
-- Success criteria for the demo will be based on player engagement and feedback, including completion of the objective and positive player reviews.
+- []: Add sound during specific events (like when the player is near a guard, near to solve a puzzle, etc...)
+- []: Add music during the game
+- []: Add menu to change the volume of the music and the sound effects or cut them off
+
+#### 8. Save
+
+- []: Save the game
+- []: Checkpoint system after each puzzle
