@@ -67,9 +67,9 @@
 #### 4. User Interface
 
 - []: Inventory shortcuts (with 3 spaces)
-- []: Ability to change the object in the shortcut
+- []: Ability to change the object in the shortcut with the mouse 
 - []: Ability to interact with the object in the shortcut/hand
-- []: Ability to switch between the object in the hand and the object in the shortcut
+- []: Ability to switch between the object in the hand and the object in the shortcut with the mouse wheel
 
 #### 5. Menu
 
