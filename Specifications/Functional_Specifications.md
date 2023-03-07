@@ -34,11 +34,14 @@
 
 ### Theme
 
-- Challenge players to escape from a high-security prison using a variety of mechanics and puzzles.
-- Provide a thought-provoking and engaging gameplay experience for players.
-- Create a unique and visually appealing game world.
-
-### Potatoe
+- Character
+- Inventory
+- Game Mechanics
+- User Interface
+- Menu
+- Help
+- Sound
+- Save
 
 #### 1. Character
 
@@ -86,4 +89,11 @@
 
 #### 7. Sound
 
+- []: Add sound during specific events (like when the player is near a guard, near to solve a puzzle, etc...)
+- []: Add music during the game
+- []: Add menu to change the volume of the music and the sound effects or cut them off
+
 #### 8. Save
+
+- []: Save the game
+- []: Checkpoint system after each puzzle
