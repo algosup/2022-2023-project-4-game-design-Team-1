@@ -51,9 +51,9 @@
 #### 2. Inventory
 
 - []: 'I' to open inventory
-- []: Able to see the objects
-- []: Select an object in the inventory
-- []: Put object in inventory
+- []: Able to see the objects in the inventory
+- []: Select an object in the inventory to move it in the shortcut
+- []: Put object in inventory from shortcut
 
 #### 3. Game Mechanics
 
