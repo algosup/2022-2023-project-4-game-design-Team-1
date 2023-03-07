@@ -38,9 +38,27 @@
 
 | ID_task | TITLE | "OWNER OF THE TASK" | STARTING DATE | DEADLINE | IMPORTANCE (1 at 5) | TASK COMPLETE (IN %) |
 | :-----: | :---: | :-----------------: | :-----------: | :------: | :-----------------: | :------------------: |
+|1.1 | Project charter | Audrey |26/02||||
+|1.2 | Comprehension of the project |All|26/02||||
+|1.3 | Functional Specifications |Théo | 26/02 | 17/03 |||
+|1.4 | Technical Specifications |Alexandre | 26/02 |  |||
+|1.5 | Test Plan | All | 26/02 | 07/04 |||
 
 <!--
-Project charter
+Project charter (Aperçu de la charte de projet
+En général, la charte de projet présente :
+
+Les raisons du projet
+Les objectifs et contraintes du projet
+Qui sont les principales parties prenantes
+Les risques identifiés
+Les avantages du projet
+Un aperçu général du budget
+Comment créer une charte de projet
+Veillez tout d'abord à bien comprendre la finalité et les objectifs du projet. Identifiez la vision du projet et déterminez sa portée
+Définissez l'organisation du projet. Dressez la liste de tous les rôles essentiels du projet, y compris les clients, les parties prenantes et l'équipe de projet au quotidien.
+Créez un plan de mise en œuvre. Décrivez les principales étapes, les dépendances et le calendrier pour l'ensemble de l'équipe et des parties prenantes.
+Recensez les domaines problématiques potentiels. Personne n'a envie d'être négatif, mais l'ajout des risques et problèmes potentiels à la charte du projet permet d'anticiper au cas où le pire se produirait.)
 Comprehension of the project
 Functional Specifications 
 Technical Specifications
@@ -53,16 +71,31 @@ Test Plan
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
+|1.1 | Yes | Yes | X | X | X | Yes |
+|1.2 | Yes | Yes | X | X | X |
+|1.3 |
+|1.4 | X | X | X | X | Yes|
+|1.5 |
 
 #### 1.3 Week 2️⃣
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
+|1.1 |
+|1.2 |
+|1.3 | Yes | Yes | X | X | X | X |
+|1.4 | Yes | Yes | X | X | X | X |
+|1.5 | X | Yes |
 
 #### 1.4 Week 3️⃣
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
+|1.1 | X | X | X | X | X | X |
+|1.2 | X | X | X | X | X | X |
+|1.3 | X | X | X | X | X | X |
+|1.4 | X | X | X | X | X | X |
+|1.5 | X | X | X | X | X | X |
 
 #### 1.5 Week 4️⃣
 
@@ -80,10 +113,16 @@ Test Plan
 
 | ID_task | TITLE | "OWNER OF THE TASK" | STARTING DATE | DEADLINE | IMPORTANCE (1 at 5) | TASK COMPLETE (IN %) |
 | :-----: | :---: | :-----------------: | :-----------: | :------: | :-----------------: | :------------------: |
+|2.1 | gameplay, scenario | All | 26/02 | |||
+|2.2 | expected results | All | 26/02 | |||
+|2.3 | create base/environment |  |  | |||
+|2.4 | create character |  |  | |||
+|2.5 | create mechanics |  |  | |||
+|2.6 | prototype |  |  | |||
 
 <!--
 gameplay, scenario
-deliverable
+expected results
 create base/environment
 create character
 create movment
@@ -93,6 +132,12 @@ prototype
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
+|2.1 | X | X | X | X | X | X |
+|2.2 | X | X | X | X | X | X |
+|2.3 | X | X | X | X | X | X |
+|2.4 | X | X | X | X | X | X |
+|2.5 | X | X | X | X | X | X |
+|2.6 | X | X | X | X | X | X |
 
 #### 2.2 Week 2️⃣
 

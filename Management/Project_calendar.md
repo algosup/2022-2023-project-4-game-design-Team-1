@@ -34,22 +34,22 @@
 
 ### Week 3️⃣
 
-| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
 | Morning | X | X | X |Project| X |
 | Afternoon |  Projet | X | X | X | Project |
 
 ### Week 4️⃣
 
-| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
 
 ### Week 5️⃣
 
-| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
 
 ### Week 6️⃣ (last week)
 
-| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
