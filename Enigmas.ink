@@ -358,7 +358,7 @@ You are in a room with buttons of different colors, and there's a message writte
 === Message_Wall
 
 
-The message on the wall reads [P,G,B,Y]. What would you like to do?
+The message on the wall reads [Map, Warthog, Blob, Grey]. What would you like to do?
 
 + [Click the green button] -> Green_btn
 + [Click the blue button] -> Blue_btn
