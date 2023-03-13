@@ -48,27 +48,27 @@
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
-|1.1 | Yes | Yes | X | X | X | Yes |
+|1.1 | Yes | Yes | X | X | Yes |
 |1.2 | Yes | Yes | X | X | X |
-|1.3 |
+|1.3 | X | X | X | X | X |
 |1.4 | X | X | X | X | Yes|
-|1.5 |
+|1.5 | X | X | X | X | X |
 
 #### 1.3 Week 2️⃣
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
-|1.1 |
-|1.2 |
-|1.3 | Yes | Yes | X | X | X | X |
-|1.4 | Yes | Yes | X | X | X | X |
-|1.5 | X | Yes |
+|1.1 | X | X | X | X | X | X |
+|1.2 | X | X | X | X | X | X |
+|1.3 | Yes | Yes | X | X | X |
+|1.4 | Yes | Yes | X | X | X |
+|1.5 | X | Yes | X | X | X |
 
 #### 1.4 Week 3️⃣
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
-|1.1 | X | X | X | X | X | X |
+|1.1 | Yes | X | X | X | X | X |
 |1.2 | X | X | X | X | X | X |
 |1.3 | X | X | X | X | X | X |
 |1.4 | X | X | X | X | X | X |
@@ -117,13 +117,13 @@
 |2.3 | X | X | X | X | X | X |
 |2.4 | Yes | X | X | X | X | X |
 |2.5 | Yes | X | X | X | X | X |
-|2.6 | X | X | X | X | X | X |
+|2.6 | X | X | X | X | Yes | Yes |
 
 #### 2.3 Week 3️⃣
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
-|2.1 | X | X | X | X | X | X |
+|2.1 | Yes | X | X | X | X | X |
 |2.2 | X | X | X | X | X | X |
 |2.3 | X | X | X | X | X | X |
 |2.4 | X | X | X | X | X | X |
