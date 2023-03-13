@@ -37,17 +37,21 @@
 | Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
 | Morning | X | X | X |Project| X |
-| Afternoon |  Projet | X | X | X | Project |
+| Afternoon | Projet | X | X | X | Project |
 
 ### Week 4️⃣
 
 | Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
+| Morning | Projet | Projet | Projet | X |Project|
+| Afternoon | X | X | X | X | X |
 
 ### Week 5️⃣
 
 | Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
+| Morning | X | X | X | X | X |
+| Afternoon | X | X | X | X | X |
 
 ### Week 6️⃣ (last week)
 
