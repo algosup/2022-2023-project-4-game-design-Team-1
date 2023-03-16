@@ -36,7 +36,7 @@ We will be working as a team of 4, with each member taking on specific tasks and
 
 ### Reports
 
-#### [`Summary of the Weeks`]( )
+#### [`Summary of the Weeks`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Weekly_recap.md)
 
 ### Management
 
