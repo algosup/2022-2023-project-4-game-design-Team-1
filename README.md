@@ -36,19 +36,7 @@ We will be working as a team of 4, with each member taking on specific tasks and
 
 ### Reports
 
-#### [`Summary of the Week 1`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_1.md)
-
-#### [`Summary of the Week 2`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_2.md)
-
-#### [`Summary of the Week 3`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_3.md)
-
-#### [`Summary of the Week 4`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_4.md)
-
-#### [`Summary of the Week 5`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_5.md)
-
-#### [`Summary of the Week 6`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_6.md)
-
-#### [`Summary of the Week 7`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/weekly_recap/week_7.md)
+#### [`Summary of the Weeks`]( )
 
 ### Management
 
