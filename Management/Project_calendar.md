@@ -57,3 +57,5 @@
 
 | Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
+| Morning | X | X | X | X | X |
+| Afternoon | X | X | X | X | X |
