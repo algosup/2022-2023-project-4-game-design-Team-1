@@ -42,6 +42,7 @@
 - Help
 - Sound
 - Save
+- Enigmas
 
 #### 1. Character
 
@@ -97,3 +98,30 @@
 
 - []: Save the game
 - []: Checkpoint system after each puzzle
+
+#### 9. Enigmas
+
+- []: To finish the game, the player has to solve 3 puzzles 
+    - Buttons
+    - Statues
+    - Piano
+
+#### 9.1 Buttons
+
+- []: The player has to press the buttons in the right order to open the door
+- []:The player need to find that the last letter of each word correspond to the color and the order .If the player is too long to find the trick we’ll give him a clue like a sentence to help him
+
+#### 9.2 Statues
+
+- []: Differents statue parts across the jail needs to be found to build the statue ands discover a secret message
+
+- []: After assembling the status, the player will receive a coded message that you will need to decipher. 
+To decipher the message, you will need to find a piece of paper in the room.
+This piece of paper will translate the symbols on the statue.
+
+- []: Once the player will get the code, he could escape the second room
+
+#### 9.3 Piano
+
+- []: The player has to play a piano  pattern to open the door
+- []: If he plays a wrong note, he will need to restart from scratch
