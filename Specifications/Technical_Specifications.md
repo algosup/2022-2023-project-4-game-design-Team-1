@@ -55,6 +55,10 @@
     - [1. List of features captured](#1-list-of-features-captured)
     - [2. Choice of game engine](#2-choice-of-game-engine)
     - [3. High-level Diagrams to Illustrate Software Design](#3-high-level-diagrams-to-illustrate-software-design)
+      - [3.1 🔸 Buttons Enigma Flowchart](#31--buttons-enigma-flowchart)
+      - [3.2 🔸 Piano Enigma Flowchart](#32--piano-enigma-flowchart)
+      - [3.3 🔸 Statue Enigma Flowchart](#33--statue-enigma-flowchart)
+      - [3.4 🔸 Guard Flowchart](#34--guard-flowchart)
     - [4. Art tools (if there)](#4-art-tools-if-there)
     - [5. 3D Objects, Terrain, \& Scene Management](#5-3d-objects-terrain--scene-management)
     - [6. Collision Detection, Physics \& Interaction](#6-collision-detection-physics--interaction)
@@ -158,23 +162,27 @@ The user should be able to manipulate a computer with keyboard.
 
 #### 3.3 🔸 Game mechanics
 
-| Mechanics | Type | Goal of the mechanic |
-| :--- | :--- | :--- |
-| Enigma | Story | A lot of enigmas across the map. The player needs to answer them to escape the jail |
-| Rock | Gameplay | Catchable object. Allows to distract and destroy |
-| Destroyable wall | Contact | Throw a pebble at the small wall to reveal a clue for the puzzle |
+Here is a list of the game mechanics that could be implemented in the game:
+
+| Mechanics | Type | Goal of the mechanic | In game ? |
+| :--- | :--- | :--- | :--- |
+| Enigma | Story | A lot of enigmas across the map. The player needs to answer them to escape the jail | ✅ |
+| Rock | Gameplay | Catchable object. Allows to distract and destroy | ✅ |
+| Destroyable wall | Contact | Throw a pebble at the small wall to reveal a clue for the puzzle | ✅ |
 | Friend | Narrative Clue | The player can talk to a friend to get a clue for the puzzle. The friend will be a rat |
 | Flashlight | Gameplay | Can use a flashlight to light up and when he will have to find battery |
 | Beanbag Gun | Gameplay | After stealing it from a guard he can use it to knock out other guards |
 | Hidden Object Hunting | Search & Find | The player must explore the jail environment to find hidden objects that will help them solve the enigmas and escape the prison |
-| Stealth | Avoidance | The player must avoid guards and other obstacles while navigating the prison. They may need to sneak past guards, hide behind objects, or distract guards to progress |
-| Time-based challenges | Timed | The player must complete certain tasks within a set amount of time, such as escaping their cell before the guards return from their patrol |
+| Stealth | Avoidance | The player must avoid guards and other obstacles while navigating the prison. They may need to sneak past guards, hide behind objects, or distract guards to progress | ✅ |
+| Time-based challenges | Timed | The player must complete certain tasks within a set amount of time, such as escaping their cell before the guards return from their patrol | ❎ |
 
 #### 3.4 🔸 Progression and challenge
 
 The player will have to solve the puzzles that will stand in his way to escape the prison.
-The following table shows the enigmas, in order of encounter.
-| Enigma | Goal of the enigma | Difficulty (from 1 "easy" to 2 "hard") |
+The following table shows the enigmas and their difficulty:
+
+| Enigma | Goal of the enigma | Difficulty (1:"easy" - 2 :"hard") |
+| :--- | :--- | :--- |
 | Buttons | Click on buttons in the right order | 1 |
 | Piano | A piece of music will be given to our player | 1 |
 | Statue | The player will need to complete the statue by finding the different parts of it | 2 |
@@ -189,11 +197,11 @@ The player will lose if he gets caught by the guards.
 
 ### 1. List of features captured
 
-<img src="../images/Mind Maze Jail Escape Edition.jpg" alt="Mind Maze Jail Escape Edition" width="500" height="500">
+<img src="../images/Mind Maze Jail Escape Edition.jpg" alt="Mind Maze: Jail Escape Edition" width="500" height="500">
 
 ### 2. Choice of game engine
 
-The choice of game engine has been predefined: Unreal Engine 4.27[^3]
+The choice of game engine has been predefined: Unreal Engine 4.27[^3].
 Unreal Engine 4.27 comes with several advantages, some of which include:
 
 - Improved Visual Fidelity: Unreal Engine 4.27 provides developers with enhanced visual quality and fidelity, enabling them to create highly realistic and immersive games and experiences.
@@ -214,7 +222,26 @@ Unreal Engine 4.27 comes with several advantages, some of which include:
 
 ### 3. High-level Diagrams to Illustrate Software Design
 
+#### 3.1 🔸 Buttons Enigma Flowchart
+
+<img src="../Images/Flowchart%20Game%20Design1.jpg">
+
+#### 3.2 🔸 Piano Enigma Flowchart
+
+<img src="../Images/Flowchart%20Game%20Design2.jpg">
+
+#### 3.3 🔸 Statue Enigma Flowchart
+
+<img src="../Images/Flowchart%20Game%20Design3.jpg">
+
+#### 3.4 🔸 Guard Flowchart
+
+<img src="../Images/Flowchart%20Game%20Design4.jpg">
+
+
 ### 4. Art tools (if there)
+
+We uses [Miro](https://miro.com/fr/) to create the flowcharts.
 
 ### 5. 3D Objects, Terrain, & Scene Management
 
