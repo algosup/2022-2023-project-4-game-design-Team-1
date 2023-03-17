@@ -247,7 +247,31 @@ We uses [Miro](https://miro.com/fr/) to create the flowcharts.
 
 ### 6. Collision Detection, Physics & Interaction
 
+Blueprint representation of mouse inputs:
+
+<img src="../Images/Mouse-Input.png">
+
+Blueprint representation of keyboard inputs:
+
+<img src="../Images/Keyboard-Input.png">
+
+Blueprint representation of sprint:
+
+<img src="../Images/Sprint.png">
+
+Blueprint representation of throwing an object:
+
+<img src="../Images/Throw.png">
+
 ### 7. Audio & Visual Effects
+
+Blueprint representation of grabing an object:
+
+<img src="../Images/Grab%20a%20rock.png">
+
+Blueprint representation when the rock touches something:
+
+<img src="../Images/Sound%20Effect.png">
 
 ## Glossary
 
