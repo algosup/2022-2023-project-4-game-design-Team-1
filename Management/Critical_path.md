@@ -7,11 +7,12 @@
 
 - [Critical path](#critical-path)
   - [1. Project definition and planning](#1-project-definition-and-planning)
-    - [1.1 Tasks asignement](#11-tasks-asignement)
-      - [1.2 Week 1️⃣](#12-week-1️⃣)
-      - [1.3 Week 2️⃣](#13-week-2️⃣)
-      - [1.4 Week 3️⃣](#14-week-3️⃣)
-      - [1.5 Week 4️⃣](#15-week-4️⃣)
+    - [1. Tasks asignement](#1-tasks-asignement)
+      - [1.1 Week 1️⃣](#11-week-1️⃣)
+      - [1.2 Week 2️⃣](#12-week-2️⃣)
+      - [1.3 Week 3️⃣](#13-week-3️⃣)
+      - [1.4 Week 4️⃣](#14-week-4️⃣)
+      - [1.5 Week 5️⃣](#15-week-5️⃣)
       - [1.6 Week 6️⃣ (last week)](#16-week-6️⃣-last-week)
   - [2. Project design](#2-project-design)
     - [2. Tasks asignement](#2-tasks-asignement)
@@ -34,7 +35,7 @@
 
 ## 1. Project definition and planning
 
-### 1.1 Tasks asignement
+### 1. Tasks asignement
 
 | ID_task | TITLE | "OWNER OF THE TASK" | STARTING DATE | DEADLINE | IMPORTANCE (1 at 5) | TASK COMPLETE (IN %) |
 | :-----: | :---: | :-----------------: | :-----------: | :------: | :-----------------: | :------------------: |
@@ -43,46 +44,73 @@
 |1.3 | Functional Specifications |Théo | 26/02 | 17/03 |||
 |1.4 | Technical Specifications |Alexandre | 26/02 |  |||
 |1.5 | Test Plan | All | 26/02 | 07/04 |||
+|1.6 | Management documents | Audrey ||||
 
-#### 1.2 Week 1️⃣
+#### 1.1 Week 1️⃣
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
 |1.1 | Yes | Yes | X | X | Yes |
 |1.2 | Yes | Yes | X | X | X |
 |1.3 | X | X | X | X | X |
-|1.4 | X | X | X | X | Yes|
+|1.4 | X | X | X | X | Yes |
 |1.5 | X | X | X | X | X |
+|1.6 | Yes | X | X | X | X |
 
-#### 1.3 Week 2️⃣
+#### 1.2 Week 2️⃣
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
-|1.1 | X | X | X | X | X | X |
-|1.2 | X | X | X | X | X | X |
-|1.3 | Yes | Yes | X | X | X |
-|1.4 | Yes | Yes | X | X | X |
+|1.1 | Yes | X | X | Yes | X |
+|1.2 | X | X | X | X | X |
+|1.3 | Yes | Yes | X | X |
+|1.4 | Yes | Yes | X | X |
 |1.5 | X | Yes | X | X | X |
+|1.6 | X | X | X | X | X |
 
-#### 1.4 Week 3️⃣
-
-| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
-| :-----: | :----: | :-----: | :------: | :------: | :----: |
-|1.1 | Yes | X | X | X | X | X |
-|1.2 | X | X | X | X | X | X |
-|1.3 | X | X | X | X | X | X |
-|1.4 | X | X | X | X | X | X |
-|1.5 | X | X | X | X | X | X |
-
-#### 1.5 Week 4️⃣
+#### 1.3 Week 3️⃣
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
+|1.1 | Yes | X | X | Yes | X |
+|1.2 | X | X | X | X | X |
+|1.3 | X | X | X | Yes | Yes |
+|1.4 | X | X | X | X | Yes |
+|1.5 | X | X | X | X | X |
+|1.6 | Yes | X | X | Yes | Yes |
+
+#### 1.4 Week 4️⃣
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+|1.1 | X | X | X | X | X |
+|1.2 | X | X | X | X | X |
+|1.3 | X | X | X | X | X |
+|1.4 | X | X | X | X | X |
+|1.5 | X | X | X | X | X |
+|1.6 | X | X | X | X | X |
+
+#### 1.5 Week 5️⃣
+
+| ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+|1.1 | X | X | X | X | X |
+|1.2 | X | X | X | X | X |
+|1.3 | X | X | X | X | X |
+|1.4 | X | X | X | X | X |
+|1.5 | X | X | X | X | X |
+|1.6 | X | X | X | X | X |
 
 #### 1.6 Week 6️⃣ (last week)
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
+|1.1 | X | X | X | X | X |
+|1.2 | X | X | X | X | X |
+|1.3 | X | X | X | X | X |
+|1.4 | X | X | X | X | X |
+|1.5 | X | X | X | X | X |
+|1.6 | X | X | X | X | X |
 
 ## 2. Project design
 
@@ -95,7 +123,7 @@
 |2.3 | create base/environment |  |  | |||
 |2.4 | create character |  |  | |||
 |2.5 | create mechanics |  |  | |||
-|2.6 | prototype |  |  | |||
+|2.6 | prototype |  |  | ||100%|
 
 #### 2.1 Week 1️⃣
 
@@ -115,7 +143,7 @@
 |2.1 | X | X | X | X | X | X |
 |2.2 | X | Yes | X | X | X | X |
 |2.3 | X | X | X | X | X | X |
-|2.4 | Yes | X | X | X | X | X |
+|2.4 | Yes | Yes | X | X | X | Yes |
 |2.5 | Yes | X | X | X | X | X |
 |2.6 | X | X | X | X | Yes | Yes |
 
@@ -123,11 +151,11 @@
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
-|2.1 | Yes | X | X | X | X | X |
+|2.1 | Yes | X | X | X | Yes | Yes |
 |2.2 | X | X | X | X | X | X |
 |2.3 | X | X | X | X | X | X |
 |2.4 | X | X | X | X | X | X |
-|2.5 | X | X | X | X | X | X |
+|2.5 | Yes | X | X | X | Yes | Yes |
 |2.6 | X | X | X | X | X | X |
 
 #### 2.4 Week 4️⃣

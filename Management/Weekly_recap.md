@@ -24,6 +24,8 @@ Then we started to create the prototype for the presentation of the prototype. W
 
 # Week 3
 
+Rémy continues to create mechanics, Théo and Alexandre improve the puzzles. While Audrey prepares the KPI presentation and works on her documents.
+
 # Week 4
 
 # Week 5
