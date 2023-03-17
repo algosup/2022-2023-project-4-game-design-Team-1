@@ -50,6 +50,8 @@ Weekly:
 
 ## Information to be shared
 
+To see more : [Readme](../README.md)
+
 <!-- Progression of the project
 - Task assignment
 - Task completion
