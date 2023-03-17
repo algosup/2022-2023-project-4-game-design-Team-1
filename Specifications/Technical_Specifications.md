@@ -23,6 +23,7 @@
   - [Author](#author)
     - [**`Alexandre BOBIS`**](#alexandre-bobis)
     - [*Tech Lead*](#tech-lead)
+  - [Project Title: *Mind Maze: Jail Escape Edition*](#project-title-mind-maze-jail-escape-edition)
   - [I. 🛠️ Technical Section](#i-️-technical-section)
     - [1. Project Overview](#1-project-overview)
     - [2. Rational](#2-rational)
@@ -50,8 +51,6 @@
       - [3.3 🔸 Game mechanics](#33--game-mechanics)
       - [3.4 🔸 Progression and challenge](#34--progression-and-challenge)
       - [3.5 🔸 Losing](#35--losing)
-    - [4. Art style](#4-art-style)
-    - [5. Music and Sounds](#5-music-and-sounds)
   - [III. 🎨 GDD\[^2\] Section](#iii--gdd2-section)
     - [1. List of features captured](#1-list-of-features-captured)
     - [2. Choice of game engine](#2-choice-of-game-engine)
@@ -66,13 +65,18 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
+## Project Title: *Mind Maze: Jail Escape Edition*
+
 ## I. 🛠️ Technical Section
 
 ### 1. Project Overview
 
 The goal of this project is to provide a video game.
 In addition, we need to be careful about the game design[^1] of our product.
+This video game is an escape video game.
+An escape game is a type of adventure game where the player is typically trapped or imprisoned in a specific location, and the main objective of the game is to escape from that location. This location can take many forms, such as a jail cell, a haunted house, a laboratory, or even a spaceship.
 
+The player will need to explore the location, gather clues, solve puzzles, and interact with objects to unlock doors, find keys, and discover hidden passages. The puzzles and challenges can be presented in various forms, such as riddles, ciphers, and other types of brain teasers.
 
 ### 2. Rational
 
@@ -102,7 +106,7 @@ Lisa has never played an escape room or puzzle game before but has heard good th
 
 ### 7. Delivery Platform & Hardware Software Requirements
 
-The delivery platform will be PC like Windows, MacOS and Linux. 
+The delivery platform will be PC like Windows, MacOS and Linux.
 
 ### 8. Marketing & Fundings
 
@@ -114,7 +118,7 @@ The main devices are PC like Windows, Mac and Linux. The game will be on 2 diffe
 
 #### 8.3 🔸 Localization
 
-The game will be in english (and french if we have enough time).
+The game will be in english.
 
 ### 9. Other Ideas
 
@@ -126,6 +130,8 @@ We also thought about new mazes and new puzzles.
 ## II. 💻 Game Section
 
 ### 1. Characters
+
+The player will be able to control a character. This character will be able to interact with the environment that's to say it will be able to move, jump, interact with objects, his inventory, etc.
 
 ### 2. Story
 
@@ -146,6 +152,10 @@ The second goal of the player is to solve the puzzles that will stand in his way
 
 #### 3.2 🔸 User Skills
 
+The user should be able to know what an escape game is.
+The user should be able to speak English.
+The user should be able to manipulate a computer with keyboard.
+
 #### 3.3 🔸 Game mechanics
 
 | Mechanics | Type | Goal of the mechanic |
@@ -162,17 +172,24 @@ The second goal of the player is to solve the puzzles that will stand in his way
 
 #### 3.4 🔸 Progression and challenge
 
+The player will have to solve the puzzles that will stand in his way to escape the prison.
+The following table shows the enigmas, in order of encounter.
+| Enigma | Goal of the enigma | Difficulty (from 1 "easy" to 2 "hard") |
+| Buttons | Click on buttons in the right order | 1 |
+| Piano | A piece of music will be given to our player | 1 |
+| Statue | The player will need to complete the statue by finding the different parts of it | 2 |
+
 #### 3.5 🔸 Losing
 
-### 4. Art style
-
-### 5. Music and Sounds
+The player will lose if he gets caught by the guards.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## III. 🎨 GDD[^2] Section
 
 ### 1. List of features captured
+
+<img src="../images/Mind Maze Jail Escape Edition.jpg" alt="Mind Maze Jail Escape Edition" width="500" height="500">
 
 ### 2. Choice of game engine
 
