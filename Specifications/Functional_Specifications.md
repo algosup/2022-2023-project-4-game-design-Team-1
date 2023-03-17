@@ -108,8 +108,11 @@
 
 #### 9.1 Buttons
 
-- []: The player has to press the buttons in the right order to open the door
-- []:The player need to find that the last letter of each word correspond to the color and the order .If the player is too long to find the trick we’ll give him a clue like a sentence to help him
+- []: The player has to press the buttons in the right order to open the door , there's 5 buttons in the room and 5 colors (Red, Blue, Green, Yellow, Purple)
+- []:The player need to find that the last letter of each word correspond to the color and the order [Map , Warthog , Blob , Gray , Floor] .If the player is too long to find the trick we’ll give him a clue like a sentence to help him
+- []: The solution is to click on the buttons in the order : [**Purple , Green , bleu , Yellow , Red**]
+- []: Once the player will get the code, he could escape the first room
+
 
 #### 9.2 Statues
 
