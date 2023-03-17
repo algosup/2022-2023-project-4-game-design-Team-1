@@ -112,16 +112,17 @@
 
 ##### 9.1 Buttons
 
-- []: The player has to press the buttons in the right order to open the door.
-- []: The player need to find that the last letter of each word correspond to the color and the order .If the player is too long to find the trick we’ll give him a clue like a sentence to help him.
+- []: The player has to press the buttons in the right order to open the door, there is 5 buttons in the room and 5 colors (Red, Blue, Green, Yellow, Purple).
+- []: The player need to find that the last letter of each word correspond to the color and the order [Map, Warthog, Blob, Gray, Floor].If the player is too long to find the trick we’ll give him a clue like a sentence to help him.
+- []: The solution is to click on the buttons in the order : [**Purple , Green , bleu , Yellow , Red**].
+- []: Once the player will get the code, he could escape the first room.
+
 
 ##### 9.2 Statues
 
 - []: Different statue parts across the jail need to be found to build the statue and discover a secret message.
 
-- []: After assembling the statue, the player will receive a coded message that you will need to decipher.
-To decipher the message, you will need to find a piece of paper in the room.
-This piece of paper will translate the symbols on the statue.
+- []: After assembling the statue, the player will receive a coded message that you will need to decipher. To decipher the message, you will need to find a piece of paper in the room. This piece of paper will translate the symbols on the statue.
 
 - []: Once the player will get the code, he could escape the second room.
 
