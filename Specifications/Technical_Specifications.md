@@ -197,7 +197,7 @@ The player will lose if he gets caught by the guards.
 
 ### 1. List of features captured
 
-<img src="../images/Mind Maze Jail Escape Edition.jpg" alt="Mind Maze: Jail Escape Edition" width="500" height="500">
+<img src="../Images/Mind%20Maze%20Jail%20Escape%20Edition.jpg" alt="Mind Maze: Jail Escape Edition" width="500" height="500">
 
 ### 2. Choice of game engine
 
@@ -271,7 +271,7 @@ Blueprint representation of grabing an object:
 
 Blueprint representation when the rock touches something:
 
-<img src="../Images/Sound%20Effect.png">
+<img src="../Images/Sound%20effect.png">
 
 ## Glossary
 
