@@ -50,83 +50,83 @@
 
 #### 1. Character
 
-- []: First Person
-- []: Choose your name
+- First Person
+- Choose your name
 
 #### 2. Inventory
 
-- []: 'I' to open inventory
-- []: Able to see the objects in the inventory
-- []: Select an object in the inventory to move it in the shortcut
-- []: Put object in inventory from shortcut
+- 'I' to open inventory
+- Able to see the objects in the inventory
+- Select an object in the inventory to move it in the shortcut
+- Put object in inventory from shortcut
 
 #### 3. Game Mechanics
 
-- []: Move with 'Z', 'Q', 'S', 'D'
-- []: Run with 'Shift'
-- []: Jump with 'Space'
-- []: Grab an object with 'Left Click'
-- []: Interact with an object like door, etc...
-- []: Able to interact with objects in his hand like keys, flashlight, etc...
+- Move with 'Z', 'Q', 'S', 'D'
+- Run with 'Shift'
+- Jump with 'Space'
+- Grab an object with 'Left Click'
+- Interact with an object like door, etc...
+- Able to interact with objects in his hand like keys, flashlight, etc...
 
 #### 4. User Interface
 
-- []: Inventory shortcuts (with 3 spaces)
-- []: Ability to change the object in the shortcut with the mouse 
-- []: Ability to interact with the object in the shortcut/hand
-- []: Ability to switch between the object in the hand and the object in the shortcut with the mouse wheel
+- Inventory shortcuts (with 3 spaces)
+- Ability to change the object in the shortcut with the mouse 
+- Ability to interact with the object in the shortcut/hand
+- Ability to switch between the object in the hand and the object in the shortcut with the mouse wheel
 
 #### 5. Menu
 
-- []: Launch screen
-  - []: Play button
-  - []: Settings button
-  - []: Credits
-- []: In game
-  - []: Pause button with 'Escape'
-    - []: Settings button
-    - []: Ability to leave and return to the menu
+- Launch screen
+  - Play button
+  - Settings button
+  - Credits
+- In game
+  - Pause button with 'Escape'
+    - Settings button
+    - Ability to leave and return to the menu
 
 #### 6. Help
 
-- []: Help button, to see all shortcuts
-- []: Clues to help the player after an amount of time
+- Help button, to see all shortcuts
+- Clues to help the player after an amount of time
 
 #### 7. Sound
 
-- []: Add sound during specific events (like when the player is near a guard, near to solve a puzzle, etc...)
-- []: Add music during the game
-- []: Add menu to change the volume of the music and the sound effects or cut them off
+- Add sound during specific events (like when the player is near a guard, near to solve a puzzle, etc...)
+- Add music during the game
+- Add menu to change the volume of the music and the sound effects or cut them off
 
 #### 8. Save
 
-- []: Save the game
-- []: Checkpoint system after each puzzle
+- Save the game
+- Checkpoint system after each puzzle
 
 #### 9. Enigmas
 
-- []: To finish the game, the player has to solve 3 puzzles:
+- To finish the game, the player has to solve 3 puzzles:
   - Buttons
   - Statue
   - Piano
 
 ##### 9.1 Buttons
 
-- []: The player has to press the buttons in the right order to open the door, there is 5 buttons in the room and 5 colors (Red, Blue, Green, Yellow, Purple).
-- []: The player need to find that the last letter of each word correspond to the color and the order [Map, Warthog, Blob, Gray, Floor].If the player is too long to find the trick we’ll give him a clue like a sentence to help him.
-- []: The solution is to click on the buttons in the order : [**Purple , Green , bleu , Yellow , Red**].
-- []: Once the player will get the code, he could escape the first room.
+- The player has to press the buttons in the right order to open the door, there is 5 buttons in the room and 5 colors (Red, Blue, Green, Yellow, Purple).
+- The player need to find that the last letter of each word correspond to the color and the order [Map, Warthog, Blob, Gray, Floor].If the player is too long to find the trick we’ll give him a clue like a sentence to help him.
+- The solution is to click on the buttons in the order : [**Purple , Green , bleu , Yellow , Red**].
+- Once the player will get the code, he could escape the first room.
 
 
 ##### 9.2 Statues
 
-- []: Different statue parts across the jail need to be found to build the statue and discover a secret message.
+- Different statue parts across the jail need to be found to build the statue and discover a secret message.
 
-- []: After assembling the statue, the player will receive a coded message that you will need to decipher. To decipher the message, you will need to find a piece of paper in the room. This piece of paper will translate the symbols on the statue.
+- After assembling the statue, the player will receive a coded message that you will need to decipher. To decipher the message, you will need to find a piece of paper in the room. This piece of paper will translate the symbols on the statue.
 
-- []: Once the player will get the code, he could escape the second room.
+- Once the player will get the code, he could escape the second room.
 
 ##### 9.3 Piano
 
-- []: The player has to play a piano  pattern to open the door.
-- []: If he plays a wrong note, he will need to restart from scratch.
+- The player has to play a piano  pattern to open the door.
+- If he plays a wrong note, he will need to restart from scratch.
