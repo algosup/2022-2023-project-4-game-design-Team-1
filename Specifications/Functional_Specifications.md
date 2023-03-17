@@ -117,7 +117,6 @@
 - The solution is to click on the buttons in the order : [**Purple , Green , bleu , Yellow , Red**].
 - Once the player will get the code, he could escape the first room.
 
-
 ##### 9.2 Statues
 
 - Different statue parts across the jail need to be found to build the statue and discover a secret message.
@@ -130,3 +129,9 @@
 
 - The player has to play a piano  pattern to open the door.
 - If he plays a wrong note, he will need to restart from scratch.
+
+#### 9.4 Between each puzzle, the player will have to escape a guard
+
+- The player will have to find a way to distract the guard and escape go to the next room
+- If the player is seen by the guard, he will have to restart from the beginning of the puzzle
+- The player need to redo all the way to recome back to the room where he was seen by the guard
