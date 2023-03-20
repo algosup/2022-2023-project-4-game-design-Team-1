@@ -2,9 +2,9 @@
 
 ## Project Title: *Mind Maze: Jail Escape Edition*
 
-### Project Goal
+### Project Description
 
-Create a Game.
+The objective of our project is to develop an escape video game. It is important to pay close attention to the game design to ensure a high-quality product. In an escape game, the player is usually confined to a specific location and must find a way to escape by collecting clues, solving puzzles, and interacting with objects. This location can range from a jail cell to a haunted house, a laboratory, or even a spaceship. The game's challenges can take various forms, such as ciphers and other types of brain teasers, and the player must use their problem-solving skills to unlock doors, find keys, and discover hidden passages.
 
 We will be working as a team of 4, with each member taking on specific tasks and responsibilities. The team is composed of **Audrey Telliez** (*Program Manager*), **Théo Trouvé** (*Program Manager*), **Alexandre Bobis** (*Tech Lead*), and **Rémy Charles** (*Software Engineer*).
 

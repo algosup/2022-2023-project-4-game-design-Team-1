@@ -20,15 +20,15 @@ Slack:
 
 Trello:
 
-- For the development part:
-- For the documentation part:
-- For the QA part:
-- For the research part:
-- For the global part:
+- For the global part: [Trello](https://trello.com/b/q6FO5Kex/global)
+- For the development part: [Trello](https://trello.com/b/XsiKaZ26/dev-part)
+- For the documentation part: [Trello](https://trello.com/b/nBXcE7Gw/documents)
+- For the QA part: [Trello](https://trello.com/b/9EGVAgsh/qa-part)
+- For the research part: [Trello](https://trello.com/b/evdOMg0n/research)
 
 Discord:
 
-- Project [Team Discord server](https://discord.gg/maxKR4WR):
+- Project Team [Discord server](https://discord.gg/maxKR4WR)
 
 Github:
 
@@ -38,11 +38,11 @@ Github:
 
 Daily:
 
-- Trello
 - Discord (at the start)
 
 Weekly:
 
+- Trello
 - Email
 - Discord
 - Github
@@ -50,7 +50,7 @@ Weekly:
 
 ## Information to be shared
 
-To see more : [Readme](../README.md)
+To see more : ➡️ [ReadMe](../README.md)
 
 <!-- Progression of the project
 - Task assignment

@@ -12,7 +12,7 @@
     - [Week 3️⃣](#week-3️⃣)
     - [Week 4️⃣](#week-4️⃣)
     - [Week 5️⃣](#week-5️⃣)
-    - [Week 6️⃣ (last week)](#week-6️⃣-last-week)
+    - [Week 6️⃣](#week-6️⃣)
 
 </details>
 
@@ -22,40 +22,40 @@
 
 | Morning / Afternoon  | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
-| Morning | Projet | Project | X | X | Project|
-| Afternoon | X | X | X | X | X |
+| Morning   | ✅ | ✅ | ❌ | ❌ | ✅ |
+| Afternoon | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ### Week 2️⃣
 
 | Morning / Afternoon  | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
-| Morning | Projet | Project | X | X | Project|
-| Afternoon | X | X | X | X | X |
+| Morning   | ✅ | ✅ | ❌ | ❌ | ✅ |
+| Afternoon | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ### Week 3️⃣
 
 | Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
-| Morning | X | X | X |Project| X |
-| Afternoon | Projet | X | X | X | Project |
+| Morning   | ❌ | ❌ | ❌ | ✅ | ❌ |
+| Afternoon | ✅ | ❌ | ❌ | ❌ | ✅ |
 
 ### Week 4️⃣
 
 | Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
-| Morning | Projet | Projet | Projet | X |Project|
-| Afternoon | X | X | X | X | X |
+| Morning   | ✅ | ✅ | ✅ | ❌ | ✅ |
+| Afternoon | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ### Week 5️⃣
 
 | Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
-| Morning | X | X | X | X | X |
-| Afternoon | X | X | X | X | X |
+| Morning   | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Afternoon | ✅ | ✅ | ❌ | ❌ | ❌ |
 
-### Week 6️⃣ (last week)
+### Week 6️⃣
 
 | Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
-| Morning | X | X | X | X | X |
-| Afternoon | X | X | X | X | X |
+| Morning   | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Afternoon | ❌ | ❌ | ❌ | ❌ | ❌ |

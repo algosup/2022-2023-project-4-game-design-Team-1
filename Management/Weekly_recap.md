@@ -15,11 +15,11 @@
 # Week 1
 
 Week 1 : We get used to the applications while thinking about the contents of the project.
-And We choose what we would do.We wrote the One sheet document.
+And we choose what we would do. We wrote the One sheet document.
 
 # Week 2
 
-We had a functional specification meeting with Fabien Goulamhoussen, after which we had a group meeting.
+We had a functional specifications meeting with Fabien Goulamhoussen, after which we had a group meeting.
 Then we started to create the prototype for the presentation of the prototype. We set up quests (on paper) that we want to implement in the game.
 
 # Week 3

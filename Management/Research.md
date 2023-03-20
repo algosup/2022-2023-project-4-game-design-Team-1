@@ -22,14 +22,13 @@
 | Unreal Documentation | [Unreal Documentation](https://docs.unrealengine.com/4.27/en-US/) | Obtain informations about the tool we are using |
 | Visual Studio | [Download Visual Studio](https://code.visualstudio.com/download) | Download Visual Studio Code for C++ |
 | GIMP | [GIMP](https://www.gimp.org/) | Tool to design elements |
-| Inky by Inkle | [Inky by Inkle](https://github.com/inkle/inky/releases/tag/0.14.1) | |
+| Inky by Inkle | [Inky by Inkle](https://github.com/inkle/inky/releases/tag/0.14.1) | Create a story that will be use for the prototype of the game |
 | Platformer Toolkit | [Platformer Toolkit](https://gmtk.itch.io/platformer-toolkit) | Simple game used in course to understand how it works |
 | VVVVVV Make and Play | [VVVVVV Make and Play](https://distractionware.com/blog/category/vvvvvv-make-and-play/) | Simple game used in course to understand how it works |
 | Assets | [Collection](https://quixel.com/megascans/collections) | Design the game |
 | Asset | [Asset idea 1](https://quixel.com/megascans/home?environment=medieval)| |
 | Asset | [Asset idea 2](https://quixel.com/megascans/home?category=3D%20asset) | |
 | Mechanics |[Mechanics idea](https://www.gamedesigning.org/learn/basic-game-mechanics/#Core-Primary-Secondary-Mechanics) | Finding mechanics idea |
-| | | |
 
 ## Similar competitive Products
 

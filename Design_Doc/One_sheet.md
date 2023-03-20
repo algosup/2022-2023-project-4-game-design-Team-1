@@ -1,6 +1,11 @@
-<details><summary> Table of contents </summary>
+# One Sheet Document
 
-- [One Sheet](#one-sheet)
+<details>
+<summary style="font-size:150%">
+  📖 Table of Contents
+</summary>
+
+- [One Sheet Document](#one-sheet-document)
   - [Game title](#game-title)
   - [Game platform](#game-platform)
   - [Monetization](#monetization)
@@ -12,15 +17,13 @@
 
 </details>
 
-# One Sheet
-
 ## Game title
 
-(not for the moment)
+Mind Maze: Jail Escape Edition
 
 ## Game platform
 
-Computer.
+Computer
 
 ## Monetization
 
@@ -28,11 +31,11 @@ No monetization for the moment
 
 ## Target audience/age
 
-16 years old and more
+12 years old and more
 
 ## Game summary
 
-The concept is that the character must get out of prison. Through mechanics and puzzles, he will be able to get closer to the exit and finally get out if he is not caught by the prison staff. This is a thought-provoking game. In this game you can neutralize people, solve puzzles, obstacles,...
+The concept is that the character must get out of jail. Through mechanics and puzzles, he will be able to get closer to the exit and finally get out if he is not caught by the prison staff. This is a thought-provoking game. In this game you can distract people, solve puzzles, obstacles...
 
 ## Game outline
 

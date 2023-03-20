@@ -21,7 +21,7 @@
 
 ## 1. KPI
 
-[KPI's Page ](https://docs.google.com/spreadsheets/d/1K4qbmP8XVguct3qXDTvcvD1xSnDAUeRBqmCZR9-sWbQ/edit?usp=sharing)
+[KPI's Page](https://docs.google.com/spreadsheets/d/1K4qbmP8XVguct3qXDTvcvD1xSnDAUeRBqmCZR9-sWbQ/edit?usp=sharing)
 
 ## 2. Measure the current status of ours KPIs
 
@@ -36,11 +36,11 @@
 
 ### Pareto law
 
-<!--gestion de projet : 80 % d'accomplissement d'une mise au point nécessite 20 % de l'effort -->
+<!-- project management: 80% completion of a debug requires 20% of the effort -->
 
 #### Deadlines
 
-60% in time (from trello)
+60% in time (from Trello)
 
 #### Safety
 
@@ -52,7 +52,7 @@
 
 ### Impact-effort matrix
 
-<img src="/Management/imgKPI.png" width="500">
+<img src="../Images/imgKPI.png" width="500">
 
 ### Problem solving
 
@@ -75,7 +75,7 @@ Measure:
 ➡️ Implement our ideas with a visual.
 
 Analyze:
-➡️ Good for a prototype but is to be improved for the demo.
+➡️ Good for a prototype but needs improvement for the demo.
 
 Improve:
 ➡️ We need to improve the difficulty of the puzzles and work well on the visual of them.
@@ -83,6 +83,7 @@ Improve:
 Control:
 ➡️ Yes.
 
-<!--Delphine 
-statuts et évolution, DMAIC d'un problème que vous avez résolu, problèmes principaux actuels, plan d'action (quoi, qui, quand, efficacement, statuts)
+<!--
+Delphine:
+Statuses and progress, DMAIC of an issue you solved, current top issues, action plan (what, who, when, effectively, statuses)
 -->
