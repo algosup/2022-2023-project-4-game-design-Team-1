@@ -144,6 +144,16 @@ The player will be able to control a character. This character will be able to i
 
 ### 2. Story
 
+```
+United States of America, Nevada, 1997
+Heavenworth Federal Penitentiary
+
+Joshua Martinez, 34 years old
+
+After being accused of the murder of one of his employees, an engineer finds himself imprisoned in a Nevada prison. You will have to find a way to escape from this prison without getting caught by the guards.
+An innocent has nothing to do in prison.
+```
+
 #### 2.1 Theme
 
 The story takes place in a prison, our player must escape from this prison and will have to solve the puzzles that will stand on his way.
