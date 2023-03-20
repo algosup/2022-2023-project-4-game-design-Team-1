@@ -1,4 +1,4 @@
-# IMAGE: ../Mind Maze Jail Escape Edition.jpg
+# IMAGE: Images/Mind Maze Jail Escape Edition.jpg
 # author: Alexandre, Audrey, Théo
 
 UNITED STATES OF AMERICA, 1997
