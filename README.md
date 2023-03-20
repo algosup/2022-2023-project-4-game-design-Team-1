@@ -1,14 +1,16 @@
 # 2022-2023-project-4-game-design-Team-1
 
-## Project Goal
+## Project Title: *Mind Maze: Jail Escape Edition*
+
+### Project Goal
 
 Create a Game.
 
-We will be working as a team of 4, with each member taking on specific tasks and responsibilities. Our project manager is Audrey, and the rest of the team consists of Théo Trouvé (Program Manager), Alexandre Bobis (Tech Lead), and Rémy Charles (Software Engineer).
+We will be working as a team of 4, with each member taking on specific tasks and responsibilities. The team is composed of **Audrey Telliez** (*Program Manager*), **Théo Trouvé** (*Program Manager*), **Alexandre Bobis** (*Tech Lead*), and **Rémy Charles** (*Software Engineer*).
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Trello boards
+### Trello boards
 
 #### [**`Global`**](https://trello.com/b/q6FO5Kex/global)
 
@@ -20,45 +22,45 @@ We will be working as a team of 4, with each member taking on specific tasks and
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Document Links
+### Document Links
 
-### Specification
+#### Specification
 
-#### [`Functionnal Specification`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Specifications/Functional_Specifications.md)
+##### [`Functionnal Specification`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Specifications/Functional_Specifications.md)
 
-#### [`Technical Specification`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Specifications/Technical_Specifications.md)
+##### [`Technical Specification`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Specifications/Technical_Specifications.md)
 
-### Tests
+#### Tests
 
-#### [`Test Plan`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Tests/Test_plan.md)
+##### [`Test Plan`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Tests/Test_plan.md)
 
-#### [`Test Cases`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Tests/test_case.md)
+##### [`Test Cases`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Tests/test_case.md)
 
-### Reports
+#### Reports
 
-#### [`Summary of the Weeks`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Weekly_recap.md)
+##### [`Summary of the Weeks`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Weekly_recap.md)
 
-### Management
+#### Management
 
-#### [**`Project Calendar`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Project_calendar.md)
+##### [**`Project Calendar`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Project_calendar.md)
 
-#### [**`Project Communication Plan`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/communication_plan.md)
+##### [**`Project Communication Plan`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/communication_plan.md)
 
-#### [**`Critical Path`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Critical_path.md)
+##### [**`Critical Path`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Critical_path.md)
 
-#### [**`Research`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Research.md)
+##### [**`Research`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/Research.md)
 
-#### [**`KPI`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/KPI.md)
+##### [**`KPI`**](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Management/KPI.md)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Contributors
+### Contributors
 
 <img src="https://avatars.githubusercontent.com/u/114394252?v=4" width="150">
 
 #### [**`Audrey Telliez`**](https://github.com/audreytllz)
 
-###### *Project Manager*
+##### *Project Manager*
 
 <br>
 <br>
@@ -67,7 +69,7 @@ We will be working as a team of 4, with each member taking on specific tasks and
 
 #### [**`Théo Trouvé`**](https://github.com/TheoTr)
 
-###### *Program Manager*
+##### *Program Manager*
 
 <br>
 <br>
@@ -76,7 +78,7 @@ We will be working as a team of 4, with each member taking on specific tasks and
 
 #### [**`Alexandre BOBIS`**](https://github.com/AlexandreBobis)
 
-###### *Tech Lead*
+##### *Tech Lead*
 
 <br>
 <br>
@@ -85,7 +87,7 @@ We will be working as a team of 4, with each member taking on specific tasks and
 
 #### [**`Remy Charles`**](https://github.com/RemyCHARLES)
 
-###### *Software Engineer*
+##### *Software Engineer*
 
 <br>
 <br>
