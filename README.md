@@ -1,6 +1,6 @@
 # 2022-2023-project-4-game-design-Team-1
 
-<img href="https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/prototype/Mind%20Maze%20Jail%20Escape%20Edition.jpg">
+<img src="../2022-2023-project-4-game-design-Team-1/Images/Mind%20Maze%20Jail%20Escape%20Edition.jpg">
 
 ## Mind Maze: Jail Escape Edition
 
