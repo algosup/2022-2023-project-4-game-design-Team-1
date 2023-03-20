@@ -34,12 +34,12 @@
     - [4. Design and Implementation Plan](#4-design-and-implementation-plan)
     - [5. Prototype](#5-prototype)
     - [6. Test/Demo Plan](#6-testdemo-plan)
-    - [7. Delivery Platform \& Hardware Software Requirements](#7-delivery-platform--hardware-software-requirements)
+    - [7. Delivery Platform \& Hardware - Software Requirements](#7-delivery-platform--hardware---software-requirements)
     - [8. Marketing \& Fundings](#8-marketing--fundings)
       - [8.1 🔸 Platforms \& Monetization](#81--platforms--monetization)
       - [8.2 🔸 Localization](#82--localization)
     - [9. Other Ideas](#9-other-ideas)
-  - [II. 💻 Game Section](#ii--game-section)
+  - [II. 🖥️ Game Section](#ii-️-game-section)
     - [1. Characters](#1-characters)
     - [2. Story](#2-story)
       - [2.1 Theme](#21-theme)
@@ -114,9 +114,9 @@ If you want to access the prototype, click ➡️ [here](https://github.com/algo
 
 ### 6. Test/Demo Plan
 
-### 7. Delivery Platform & Hardware Software Requirements
+### 7. Delivery Platform & Hardware - Software Requirements
 
-The delivery harware will be PC like Windows, MacOS and Linux.
+The delivery harware will be computers like Windows, MacOS and Linux.
 Steam or Epic Games Store will be the main platforms.
 
 ### 8. Marketing & Fundings
@@ -136,7 +136,7 @@ We also thought about new mazes and new puzzles.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
-## II. 💻 Game Section
+## II. 🖥️ Game Section
 
 ### 1. Characters
 
