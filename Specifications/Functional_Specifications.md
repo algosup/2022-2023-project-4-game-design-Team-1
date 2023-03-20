@@ -72,7 +72,7 @@
 #### 4. User Interface
 
 - Inventory shortcuts (with 3 spaces)
-- Ability to change the object in the shortcut with the mouse 
+- Ability to change the object in the shortcut with the mouse
 - Ability to interact with the object in the shortcut/hand
 - Ability to switch between the object in the hand and the object in the shortcut with the mouse wheel
 
@@ -110,14 +110,14 @@
   - Statue
   - Piano
 
-##### 9.1 Buttons
+##### 9.1 🔸 Buttons
 
 - The player has to press the buttons in the right order to open the door, there is 5 buttons in the room and 5 colors (Red, Blue, Green, Yellow, Purple).
-- The player need to find that the last letter of each word correspond to the color and the order [Map, Warthog, Blob, Gray, Floor].If the player is too long to find the trick we’ll give him a clue like a sentence to help him.
+- The player need to find that the last letter of each word correspond to the color and the order [**Map**, **Warthog**, **Blob**, **Gray**, **Floor**]. If the player is too long to find the trick we’ll give him a clue like a sentence to help him.
 - The solution is to click on the buttons in the order : [**Purple , Green , bleu , Yellow , Red**].
 - Once the player will get the code, he could escape the first room.
 
-##### 9.2 Statues
+##### 9.2 🔸 Statues
 
 - Different statue parts across the jail need to be found to build the statue and discover a secret message.
 
@@ -125,13 +125,13 @@
 
 - Once the player will get the code, he could escape the second room.
 
-##### 9.3 Piano
+##### 9.3 🔸 Piano
 
-- The player has to play a piano  pattern to open the door.
+- The player has to play a piece of piano to open the door.
 - If he plays a wrong note, he will need to restart from scratch.
 
-#### 9.4 Between each puzzle, the player will have to escape a guard
+##### 9.4 🔸 Between each puzzle, the player will have to escape guards
 
-- The player will have to find a way to distract the guard and escape go to the next room
-- If the player is seen by the guard, he will have to restart from the beginning of the puzzle
-- The player need to redo all the way to recome back to the room where he was seen by the guard
+- The player will have to find a way to distract the guard and escape go to the next room.
+- If the player is seen by the guard, he will have to restart from the beginning of the puzzle.
+- The player need to redo all the way to recome back to the room where he was seen by the guard.
