@@ -58,7 +58,7 @@
       - [3.2 🔸 Piano Enigma Flowchart](#32--piano-enigma-flowchart)
       - [3.3 🔸 Statue Enigma Flowchart](#33--statue-enigma-flowchart)
       - [3.4 🔸 Guard Flowchart](#34--guard-flowchart)
-    - [4. Art tools (if there)](#4-art-tools-if-there)
+    - [4. Art tool](#4-art-tool)
     - [5. 3D Objects, Terrain, \& Scene Management](#5-3d-objects-terrain--scene-management)
     - [6. Collision Detection, Physics \& Interaction](#6-collision-detection-physics--interaction)
     - [7. Audio \& Visual Effects](#7-audio--visual-effects)
@@ -261,7 +261,7 @@ Overall, these features make Unreal Engine 4.27 a powerful tool for game develop
 <img src="../Images/Flowchart%20Game%20Design4.jpg">
 
 
-### 4. Art tools (if there)
+### 4. Art tool
 
 We uses [Miro](https://miro.com/fr/), a virtual white board, to create flowcharts.
 
@@ -276,7 +276,7 @@ Here is the Spline Path Blueprint:
 
 Here is a blackboard representation of the AI:
 <img src="../Images/Reaction.png">
-This blackboard represents the brain of the AI, this is what will allow it to interact with its environment.
+This blackboard represents the brain of the AI, this is what will allow it to interact with its environment. The information is taken into account from left to right.
 
 ### 6. Collision Detection, Physics & Interaction
 
