@@ -82,8 +82,3 @@ Improve:
 
 Control:
 ➡️ Yes.
-
-<!--
-Delphine:
-Statuses and progress, DMAIC of an issue you solved, current top issues, action plan (what, who, when, effectively, statuses)
--->

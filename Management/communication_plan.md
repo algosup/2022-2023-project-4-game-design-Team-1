@@ -9,6 +9,7 @@
   - [The different means of communication](#the-different-means-of-communication)
   - [Frequency of communication](#frequency-of-communication)
   - [Information to be shared](#information-to-be-shared)
+    - [Progression of the project](#progression-of-the-project)
 
 </details>
 
@@ -50,10 +51,10 @@ Weekly:
 
 ## Information to be shared
 
-To see more : ➡️ [ReadMe](../README.md)
+### Progression of the project
 
-<!-- Progression of the project
-- Task assignment
-- Task completion
-- Functionnal specification
-- Technical specification -->
+- [`Task assignment /Task completion`](https://trello.com/b/q6FO5Kex/global)
+- [`Functionnal Specification`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Specifications/Functional_Specifications.md)
+- [`Technical Specification`](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/documents/Specifications/Technical_Specifications.md)
+
+To see more : ➡️ [ReadMe](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/tree/documents#readme)

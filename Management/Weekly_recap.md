@@ -28,6 +28,8 @@ Rémy continues to create mechanics, Théo and Alexandre improve the puzzles. Wh
 
 # Week 4
 
+We continue to improve the mechanics, the designs and also the puzzles for the demo at the end of the weeek.
+
 # Week 5
 
 # Week 6
