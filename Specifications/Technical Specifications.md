@@ -219,6 +219,7 @@ Game cover image
 <img src="../Images/Mind%20Maze%20Jail%20Escape%20Edition.jpg" alt="Mind Maze: Jail Escape Edition">
 
 Simple guard
+<br>
 <img src="../Images/Guard.png" alt="Guard">
 
 ### 2. Choice of game engine
