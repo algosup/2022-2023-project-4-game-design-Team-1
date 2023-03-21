@@ -127,12 +127,12 @@ The main devices are PC like Windows, Mac and Linux. The game will be on 2 diffe
 
 #### 8.2 🔸 Localization
 
-The game will be in english. So anyone who speaks English will be able to play.
+The game will be in english. So anyone who speaks english will be able to play.
 
 ### 9. Other Ideas
 
 We thought about adding a multiplayer mode where you can play with your friends.
-We also thought about new mazes and new puzzles.
+We also thought about new mazes and new puzzles, so new games.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
@@ -203,6 +203,8 @@ The following table shows the enigmas and their difficulty:
 | Piano | A piece of music will be given to our player | 1 |
 | Statue | The player will need to complete the statue by finding the different parts of it | 2 |
 
+Each puzzle will unlock a new area of the prison.
+
 #### 3.5 🔸 Losing
 
 The player will lose if he gets caught by the guards.
@@ -213,12 +215,15 @@ The player will lose if he gets caught by the guards.
 
 ### 1. List of features captured
 
-<img src="../Images/Mind%20Maze%20Jail%20Escape%20Edition.jpg" alt="Mind Maze: Jail Escape Edition" width="500" height="500">
+Game cover image
+<img src="../Images/Mind%20Maze%20Jail%20Escape%20Edition.jpg" alt="Mind Maze: Jail Escape Edition">
+
+Simple guard
+<img src="../Images/Guard.png" alt="Guard">
 
 ### 2. Choice of game engine
 
-The choice of game engine has been predefined: Unreal Engine 4.27[^4].
-Unreal Engine 4.27 comes with several advantages, some of which include:
+The choice of game engine has been predefined: Unreal Engine 4.27[^4]. Unreal Engine 4.27 comes with several advantages, some of which include:
 
 - Improved Visual Fidelity: Unreal Engine 4.27 provides developers with enhanced visual quality and fidelity, enabling them to create highly realistic and immersive games and experiences.
 
@@ -257,9 +262,20 @@ Overall, these features make Unreal Engine 4.27 a powerful tool for game develop
 
 ### 4. Art tools (if there)
 
-We uses [Miro](https://miro.com/fr/) to create the flowcharts.
+We uses [Miro](https://miro.com/fr/), a virtual white board, to create flowcharts.
 
 ### 5. 3D Objects, Terrain, & Scene Management
+
+Representation of the guard path (or *spline path*):
+<img src="../Images/Cube.png" alt="Guard Path">
+The *spline path* is composed of a cube and the guard must follow the cube.
+
+Here is the Spline Path Blueprint:
+<img src="../Images/Spline%20Path.png">
+
+Here is a blackboard representation of the AI:
+<img src="../Images/Reaction.png">
+This blackboard represents the brain of the AI, this is what will allow it to interact with its environment.
 
 ### 6. Collision Detection, Physics & Interaction
 
