@@ -12,5 +12,9 @@
 			"Name": "ControlRig",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"MacNoEditor",
+		"WindowsNoEditor"
 	]
 }
