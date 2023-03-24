@@ -39,12 +39,12 @@
 
 | ID_task | TITLE | "OWNER OF THE TASK" | STARTING DATE | DEADLINE | IMPORTANCE (1 at 5) | TASK COMPLETE (IN %) |
 | :-----: | :---: | :-----------------: | :-----------: | :------: | :-----------------: | :------------------: |
-|1.1 | KPI | Audrey |26/02||||
-|1.2 | Comprehension of the project |All|26/02||||
-|1.3 | Functional Specifications |Théo | 26/02 | 17/03 |||
-|1.4 | Technical Specifications |Alexandre | 26/02 |  |||
-|1.5 | Test Plan | All | 26/02 | 07/04 |||
-|1.6 | Management documents | Audrey ||||
+|1.1 | KPI | Audrey |26/02| 07/04 | 2 | 60% |
+|1.2 | Comprehension of the project |All|26/02| 03/03 | 2 | 100% |
+|1.3 | Functional Specifications |Théo | 26/02 | 17/03 | 2 | 60% |
+|1.4 | Technical Specifications |Alexandre | 26/02 |  | 2 | 80% |
+|1.5 | Test Plan | All | 26/02 | 07/04 |  | 10% |
+|1.6 | Management documents | Audrey | 26/02 |  | 2 | 64% |
 
 #### 1.1 Week 1️⃣
 
@@ -87,8 +87,8 @@
 |1.2 | ❌ | ❌ | ❌ | ❌ | ❌ |
 |1.3 | ✅ | ❌ | ❌ | ❌ | ❌ |
 |1.4 | ✅ | ❌ | ❌ | ❌ | ❌ |
-|1.5 | ❌ | ❌ | ❌ | ❌ | ❌ |
-|1.6 | ❌ | ❌ | ❌ | ❌ | ❌ |
+|1.5 | ❌ | ❌ | ✅ | ❌ | ❌ |
+|1.6 | ❌ | ❌ | ✅ | ❌ | ❌ |
 
 #### 1.5 Week 5️⃣
 
@@ -118,12 +118,14 @@
 
 | ID_task | TITLE | "OWNER OF THE TASK" | STARTING DATE | DEADLINE | IMPORTANCE (1 at 5) | TASK COMPLETE (IN %) |
 | :-----: | :---: | :-----------------: | :-----------: | :------: | :-----------------: | :------------------: |
-|2.1 | gameplay, scenario | All | 26/02 | |||
-|2.2 | expected results | All | 26/02 | |||
-|2.3 | create base/environment |  |  | |||
-|2.4 | create character |  |  | |||
-|2.5 | create mechanics |  |  | |||
-|2.6 | prototype |  |  | ||100%|
+|2.1 | gameplay, scenario | All | 26/02 | 10/03 | 1 ||
+|2.2 | expected results | All | 26/02 |  | 3 ||
+|2.3 | create base/environment | All | 26/02 | | 2 ||
+|2.4 | create character | Rémy | 26/02 | | 1 ||
+|2.5 | create mechanics | Rémy | 26/02 | | 1 ||
+|2.6 | prototype | All  | 05/03 | 10/03 ||100%|
+|2.7 | Demo / vertical slice | All  | 10/03 | 23/03 | 1 |100%|
+|2.8 | V1 | All | 23/03 | 07/04 | 1 |  |
 
 #### 2.1 Week 1️⃣
 
@@ -135,6 +137,8 @@
 |2.4 | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 |2.5 | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
 |2.6 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|2.7 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|2.8 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 #### 2.2 Week 2️⃣
 
@@ -146,6 +150,8 @@
 |2.4 | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ |
 |2.5 | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |2.6 | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
+|2.7 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|2.8 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 #### 2.3 Week 3️⃣
 
@@ -157,6 +163,8 @@
 |2.4 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |2.5 | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ |
 |2.6 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|2.7 | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ |
+|2.8 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 #### 2.4 Week 4️⃣
 
@@ -164,10 +172,12 @@
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
 |2.1 | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |2.2 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|2.3 | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|2.3 | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
 |2.4 | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|2.5 | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|2.5 | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
 |2.6 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|2.7 | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+|2.8 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 #### 2.5 Week 5️⃣
 
@@ -179,6 +189,8 @@
 |2.4 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |2.5 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |2.6 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|2.7 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|2.8 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 #### 2.6 Week 6️⃣ (last week)
 
@@ -190,6 +202,8 @@
 |2.4 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |2.5 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |2.6 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|2.7 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+|2.8 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
 ## 3. Project finalization
 
@@ -197,9 +211,9 @@
 
 | ID_task | TITLE | "OWNER OF THE TASK" | STARTING DATE | DEADLINE | IMPORTANCE (1 at 5) | TASK COMPLETE (IN %) |
 | :-----: | :---: | :-----------------: | :-----------: | :------: | :-----------------: | :------------------: |
-| 3.1 | Finish the code | Alexandre and Rémy | ||||
-| 3.2 | Complete the tests | All ||||
-| 3.3 | Presentation| All ||||
+| 3.1 | Finish the code | Alexandre and Rémy |  |  |  |
+| 3.2 | Complete the tests | All |  |  |  |
+| 3.3 | Presentation | All |  |  |  |
 
 #### 3.1 Week 1️⃣
 
