@@ -32,4 +32,6 @@ We continue to improve the mechanics, the designs and also the puzzles for the d
 
 # Week 5
 
+Meeting.
+
 # Week 6
