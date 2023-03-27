@@ -8,6 +8,7 @@
 - [Research Board](#research-board)
   - [📝 List research](#-list-research)
     - [Researchs](#researchs)
+  - [Videos](#videos)
   - [Similar competitive Products](#similar-competitive-products)
 
 </details>
@@ -29,6 +30,14 @@
 | Asset | [Asset idea 1](https://quixel.com/megascans/home?environment=medieval)| |
 | Asset | [Asset idea 2](https://quixel.com/megascans/home?category=3D%20asset) | |
 | Mechanics |[Mechanics idea](https://www.gamedesigning.org/learn/basic-game-mechanics/#Core-Primary-Secondary-Mechanics) | Finding mechanics idea |
+
+## Videos
+
+[Main Menu](https://www.youtube.com/watch?v=vWg23nEH5qk&t=84s)
+[Pause Menu](https://www.youtube.com/watch?v=Bck480UHKq8&t=938s)
+[Graphic Settings](https://www.youtube.com/watch?v=8-5SXGGZD64)
+[Piano Enigma](https://www.youtube.com/watch?v=Qnm3f50e0FI)
+
 
 ## Similar competitive Products
 
