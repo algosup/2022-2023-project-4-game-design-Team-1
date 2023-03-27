@@ -32,7 +32,17 @@
       - [3.4 Week 4️⃣](#34-week-4️⃣)
       - [3.5 Week 5️⃣](#35-week-5️⃣)
       - [3.6 Week 6️⃣](#36-week-6️⃣)
-      - [3.7 Week  (last week)](#37-week--last-week)
+      - [3.7 Week 7️⃣ (last week)](#37-week-7️⃣-last-week)
+>>>>>>> 12204b9e672d347443a01c9e184734a1a2a72a77
+  - [3. Project finalization](#3-project-finalization)
+    - [3. Tasks asignement](#3-tasks-asignement)
+      - [3.1 Week 1️⃣](#31-week-1️⃣)
+      - [3.2 Week 2️⃣](#32-week-2️⃣)
+      - [3.3 Week 3️⃣](#33-week-3️⃣)
+      - [3.4 Week 4️⃣](#34-week-4️⃣)
+      - [3.5 Week 5️⃣](#35-week-5️⃣)
+      - [3.6 Week 6️⃣](#36-week-6️⃣)
+      - [3.7 Week 7 (last week)](#37-week-7-last-week)
 
 </details>
 
