@@ -33,7 +33,7 @@
     - [3. Scope](#3-scope)
     - [4. Design and Implementation Plan](#4-design-and-implementation-plan)
     - [5. Prototype](#5-prototype)
-    - [6. Test/Demo Plan](#6-testdemo-plan)
+    - [6. Demo](#6-demo)
     - [7. Delivery Platform \& Hardware - Software Requirements](#7-delivery-platform--hardware---software-requirements)
     - [8. Marketing \& Fundings](#8-marketing--fundings)
       - [8.1 🔸 Platforms \& Monetization](#81--platforms--monetization)
@@ -104,6 +104,7 @@ Lisa has never played an escape room or puzzle game before but has heard good th
 
 - Game Design Document Delivery Date: 2023-03-03
 - Prototype Delivery Date: 2023-03-10
+- Game Demo Delivery Date: 2023-03-23
 - Final Product Delivery Date: 2023-04-13
 
 ### 5. Prototype
@@ -113,7 +114,21 @@ This one is composed of 3 puzzles to solve, 2 available directly on a computer a
 The second part of the prototype is an Unreal Engine scene representing a guard moving randomly in the scene.
 If you want to access the prototype, click ➡️ [here](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/prototype/README.md) ⬅️
 
-### 6. Test/Demo Plan
+```
+A very interesting idea, that was very cleverly prototyped using a combination of Unreal, Ink, and pen-and-paper elements. Adequate instructions and guidance were provided; Interesting UI choices. Well organized testing of the game, but the team should have been more attentive at how testers played and note their reactions; the development seems to be doing well. The playtesting questions were not as detailed as they should have been; some wrong questions were asked. Average presentation of the results, and the roadmap ahead.
+```
+
+### 6. Demo
+
+The demo consists of our game.
+We have a main menu, part of jail, an enigma and a guard.
+In the main menu, you can see different options.
+The enigma is the buttons enigma.
+The guard is supposed to react to a sound (like a rock that have been thrown by the player).
+
+```
+The test environment was decently prepared, and the testing was conducted in an appropriate manner. Players were presented with enough information to try out the game, even if the team didn't know what exactly to search for. What's more, both puzzles -despite the instructions- demanded far too specific solutions, that in turn required advice by the dev team. As for the demo itself, it still seemed too early in production. The graphics were untextured, player progress was not obvious, no hints were provided in game, and the demo should have been more complete. This would have allowed for a meaningful testing session. The demo itself was stable if simple, but not all interactions worked as they should have.
+```
 
 ### 7. Delivery Platform & Hardware - Software Requirements
 
