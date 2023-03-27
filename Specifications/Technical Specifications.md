@@ -200,7 +200,7 @@ Here is a list of the game mechanics that (are implemented (✅)) - (are not imp
 | :--- | :--- | :--- | :--- |
 | Enigma | Story | A lot of enigmas across the map. The player needs to answer them to escape the jail | ✅ |
 | Rock | Gameplay | Catchable object. Allows to distract and destroy | ✅ |
-| Destroyable wall | Contact | Throw a pebble at the small wall to reveal a clue for the puzzle | ✅ |
+| Destroyable wall | Contact | Throw a pebble at the small wall to reveal a clue for the puzzle | ❎ |
 | Friend | Narrative Clue | The player can talk to a friend to get a clue for the puzzle. The friend will be a rat | ❎ |
 | Flashlight | Gameplay | Can use a flashlight to light up and when he will have to find battery | ❎ |
 | Beanbag Gun | Gameplay | After stealing it from a guard he can use it to knock out other guards | ❎ |
@@ -214,7 +214,7 @@ The player will have to solve the puzzles that will stand in his way to escape t
 The following table shows the enigmas and their difficulty:
 
 | Enigma | Goal of the enigma | Difficulty (1:"easy" - 2 :"hard") |
-| :--- | :--- | :--- |
+| :---: | :---: | :---: |
 | Buttons | Click on buttons in the right order | 1 |
 | Piano | A piece of music will be given to our player | 1 |
 | Statue | The player will need to complete the statue by finding the different parts of it | 2 |
