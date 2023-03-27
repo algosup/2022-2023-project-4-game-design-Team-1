@@ -114,9 +114,9 @@ This one is composed of 3 puzzles to solve, 2 available directly on a computer a
 The second part of the prototype is an Unreal Engine scene representing a guard moving randomly in the scene.
 If you want to access the prototype, click ➡️ [here](https://github.com/algosup/2022-2023-project-4-game-design-Team-1/blob/prototype/README.md) ⬅️
 
-```
+`
 A very interesting idea, that was very cleverly prototyped using a combination of Unreal, Ink, and pen-and-paper elements. Adequate instructions and guidance were provided; Interesting UI choices. Well organized testing of the game, but the team should have been more attentive at how testers played and note their reactions; the development seems to be doing well. The playtesting questions were not as detailed as they should have been; some wrong questions were asked. Average presentation of the results, and the roadmap ahead.
-```
+`
 
 ### 6. Demo
 
@@ -126,9 +126,9 @@ In the main menu, you can see different options.
 The enigma is the buttons enigma.
 The guard is supposed to react to a sound (like a rock that have been thrown by the player).
 
-```
+`
 The test environment was decently prepared, and the testing was conducted in an appropriate manner. Players were presented with enough information to try out the game, even if the team didn't know what exactly to search for. What's more, both puzzles -despite the instructions- demanded far too specific solutions, that in turn required advice by the dev team. As for the demo itself, it still seemed too early in production. The graphics were untextured, player progress was not obvious, no hints were provided in game, and the demo should have been more complete. This would have allowed for a meaningful testing session. The demo itself was stable if simple, but not all interactions worked as they should have.
-```
+`
 
 ### 7. Delivery Platform & Hardware - Software Requirements
 
