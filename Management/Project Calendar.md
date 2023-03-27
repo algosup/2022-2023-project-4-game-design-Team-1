@@ -13,6 +13,7 @@
     - [Week 4️⃣](#week-4️⃣)
     - [Week 5️⃣](#week-5️⃣)
     - [Week 6️⃣](#week-6️⃣)
+    - [Week 7️⃣](#week-7️⃣)
 
 </details>
 
@@ -42,7 +43,6 @@
 ### Week 4️⃣
 
 | Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
-| :-----: | :----: | :-----: | :------: | :------: | :----: |
 | Morning   | ✅ | ✅ | ✅ | ❌ | ✅ |
 | Afternoon | ❌ | ❌ | ❌ | ❌ | ❌ |
 
@@ -54,6 +54,13 @@
 | Afternoon | ✅ | ✅ | ❌ | ❌ | ❌ |
 
 ### Week 6️⃣
+
+| Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
+| :-----: | :----: | :-----: | :------: | :------: | :----: |
+| Morning   | ❌ | ✅ | ❌ | ❌ | ❌ |
+| Afternoon | ✅ | ✅ | ❌ | ❌ | ✅ |
+
+### Week 7️⃣
 
 | Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |

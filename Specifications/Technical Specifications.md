@@ -62,6 +62,7 @@
     - [5. 3D Objects, Terrain, \& Scene Management](#5-3d-objects-terrain--scene-management)
     - [6. Collision Detection, Physics \& Interaction](#6-collision-detection-physics--interaction)
     - [7. Audio \& Visual Effects](#7-audio--visual-effects)
+    - [8. Other Blueprints](#8-other-blueprints)
   - [Glossary](#glossary)
 
 </details>
@@ -216,11 +217,20 @@ The player will lose if he gets caught by the guards.
 ### 1. List of features captured
 
 Game cover image
+<br>
 <img src="../Images/Mind%20Maze%20Jail%20Escape%20Edition.jpg" alt="Mind Maze: Jail Escape Edition">
+
+Main menu
+<br>
+<img src="../Images/Main_Menu.png">
 
 Simple guard
 <br>
 <img src="../Images/Guard.png" alt="Guard">
+
+First enigma
+<br>
+<img src="../Images/Enigma1.png">
 
 ### 2. Choice of game engine
 
@@ -248,18 +258,25 @@ Overall, these features make Unreal Engine 4.27 a powerful tool for game develop
 
 <img src="../Images/Flowchart%20Game%20Design1.jpg">
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 #### 3.2 🔸 Piano Enigma Flowchart
 
 <img src="../Images/Flowchart%20Game%20Design2.jpg">
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 #### 3.3 🔸 Statue Enigma Flowchart
 
 <img src="../Images/Flowchart%20Game%20Design3.jpg">
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 #### 3.4 🔸 Guard Flowchart
 
 <img src="../Images/Flowchart%20Game%20Design4.jpg">
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### 4. Art tool
 
@@ -271,12 +288,18 @@ Representation of the guard path (or *spline path*):
 <img src="../Images/Cube.png" alt="Guard Path">
 The *spline path* is composed of a cube and the guard must follow the cube.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 Here is the Spline Path Blueprint:
 <img src="../Images/Spline%20Path.png">
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 Here is a blackboard representation of the AI:
 <img src="../Images/Reaction.png">
 This blackboard represents the brain of the AI, this is what will allow it to interact with its environment. The information is taken into account from left to right.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### 6. Collision Detection, Physics & Interaction
 
@@ -284,17 +307,25 @@ Blueprint[^5] representation of mouse inputs:
 
 <img src="../Images/Mouse-Input.png">
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 Blueprint representation of keyboard inputs:
 
 <img src="../Images/Keyboard-Input.png">
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 Blueprint representation of sprint:
 
 <img src="../Images/Sprint.png">
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 Blueprint representation of throwing an object:
 
 <img src="../Images/Throw.png">
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ### 7. Audio & Visual Effects
 
@@ -302,9 +333,27 @@ Blueprint representation of grabing an object:
 
 <img src="../Images/Grab%20a%20rock.png">
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 Blueprint representation when the rock touches something:
 
 <img src="../Images/Sound%20effect.png">
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+### 8. Other Blueprints
+
+Blueprint representation of the viewing mode:
+
+<img src="../Images/ViewingMode.png">
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+Blueprint representation of changing the resolution:
+
+<img src="../Images/Resolution.png">
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Glossary
 

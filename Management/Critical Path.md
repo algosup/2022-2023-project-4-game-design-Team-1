@@ -13,7 +13,8 @@
       - [1.3 Week 3️⃣](#13-week-3️⃣)
       - [1.4 Week 4️⃣](#14-week-4️⃣)
       - [1.5 Week 5️⃣](#15-week-5️⃣)
-      - [1.6 Week 6️⃣ (last week)](#16-week-6️⃣-last-week)
+      - [1.6 Week 6️⃣](#16-week-6️⃣)
+      - [1.7 Week 7️⃣ (last week)](#17-week-7️⃣-last-week)
   - [2. Project design](#2-project-design)
     - [2. Tasks asignement](#2-tasks-asignement)
       - [2.1 Week 1️⃣](#21-week-1️⃣)
@@ -21,7 +22,8 @@
       - [2.3 Week 3️⃣](#23-week-3️⃣)
       - [2.4 Week 4️⃣](#24-week-4️⃣)
       - [2.5 Week 5️⃣](#25-week-5️⃣)
-      - [2.6 Week 6️⃣ (last week)](#26-week-6️⃣-last-week)
+      - [2.6 Week 6️⃣](#26-week-6️⃣)
+      - [2.7 Week 7️⃣ (last week)](#27-week-7️⃣-last-week)
   - [3. Project finalization](#3-project-finalization)
     - [3. Tasks asignement](#3-tasks-asignement)
       - [3.1 Week 1️⃣](#31-week-1️⃣)
@@ -29,7 +31,8 @@
       - [3.3 Week 3️⃣](#33-week-3️⃣)
       - [3.4 Week 4️⃣](#34-week-4️⃣)
       - [3.5 Week 5️⃣](#35-week-5️⃣)
-      - [3.6 Week 6️⃣ (last week)](#36-week-6️⃣-last-week)
+      - [3.6 Week 6️⃣](#36-week-6️⃣)
+      - [3.7 Week  (last week)](#37-week--last-week)
 
 </details>
 
@@ -112,7 +115,7 @@
 |1.5 | ❌ | ❌ | ❌ | ❌ | ❌ |
 |1.6 | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-#### 1.7 Week 7 (last week)
+#### 1.7 Week 7️⃣ (last week)
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
@@ -216,7 +219,7 @@
 |2.7 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |2.8 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-#### 2.7 Week (last week)
+#### 2.7 Week 7️⃣ (last week)
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
@@ -287,7 +290,7 @@
 |3.2 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 |3.3 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-#### 3.7 Week  (last week)
+#### 3.7 Week 7️⃣ (last week)
 
 | ID_task | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
