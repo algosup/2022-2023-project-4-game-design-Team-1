@@ -50,7 +50,7 @@
 
 | Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
-| Morning   | ❌ | ❌ | ❌ | ✅ | ✅ |
+| Morning   | ❌ | ✅ | ❌ | ✅ | ✅ |
 | Afternoon | ✅ | ✅ | ❌ | ❌ | ❌ |
 
 ### Week 6️⃣
