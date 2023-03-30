@@ -12,8 +12,8 @@
     - [2. Interactions 🗣️](#2-interactions-️)
     - [3. Enigmas ⚙️](#3-enigmas-️)
     - [4. Player 👤](#4-player-)
-</details>
 
+</details>
 
 ## Test Case
 

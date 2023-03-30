@@ -30,6 +30,7 @@
 | Asset | [Asset idea 1](https://quixel.com/megascans/home?environment=medieval)| |
 | Asset | [Asset idea 2](https://quixel.com/megascans/home?category=3D%20asset) | |
 | Mechanics |[Mechanics idea](https://www.gamedesigning.org/learn/basic-game-mechanics/#Core-Primary-Secondary-Mechanics) | Finding mechanics idea |
+| Youtube | [Youtube](https://www.youtube.com/) | Find tutorials |
 
 ## Videos
 
