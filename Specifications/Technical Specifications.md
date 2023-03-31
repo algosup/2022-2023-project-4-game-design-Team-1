@@ -30,15 +30,14 @@
       - [2.1 🔸 Sarah](#21--sarah)
       - [2.2 🔸 John](#22--john)
       - [2.3 🔸 Lisa](#23--lisa)
-    - [3. Scope](#3-scope)
-    - [4. Design and Implementation Plan](#4-design-and-implementation-plan)
-    - [5. Prototype](#5-prototype)
-    - [6. Demo](#6-demo)
-    - [7. Delivery Platform \& Hardware - Software Requirements](#7-delivery-platform--hardware---software-requirements)
-    - [8. Marketing \& Fundings](#8-marketing--fundings)
-      - [8.1 🔸 Platforms \& Monetization](#81--platforms--monetization)
-      - [8.2 🔸 Localization](#82--localization)
-    - [9. Other Ideas](#9-other-ideas)
+    - [3. Design and Implementation Plan](#3-design-and-implementation-plan)
+    - [4. Prototype](#4-prototype)
+    - [5. Demo](#5-demo)
+    - [6. Delivery Platform \& Hardware - Software Requirements](#6-delivery-platform--hardware---software-requirements)
+    - [7. Marketing \& Fundings](#7-marketing--fundings)
+      - [7.1 🔸 Platforms \& Monetization](#71--platforms--monetization)
+      - [7.2 🔸 Localization](#72--localization)
+    - [8. Other Ideas](#8-other-ideas)
   - [II. 🖥️ Game Section](#ii-️-game-section)
     - [1. Characters](#1-characters)
     - [2. Story](#2-story)
@@ -96,18 +95,14 @@ John has played several puzzle games on his phone and computer. He likes the men
 
 Lisa has never played an escape room or puzzle game before but has heard good things from friends. She's always enjoyed solving problems and thinks a puzzle game would be a good way to challenge herself. She's excited to try one out and see if it's something she enjoys. She's looking forward to using her problem-solving skills to figure out the puzzles and escape the room.
 
-### 3. Scope
-
-
-
-### 4. Design and Implementation Plan
+### 3. Design and Implementation Plan
 
 - Game Design Document Delivery Date: 2023-03-03
 - Prototype Delivery Date: 2023-03-10
 - Game Demo Delivery Date: 2023-03-23
 - Final Product Delivery Date: 2023-04-13
 
-### 5. Prototype
+### 4. Prototype
 
 The prototype consists of an Inky[^2] story (.ink)
 This one is composed of 3 puzzles to solve, 2 available directly on a computer and the last one requires a material presence to be able to complete it.
@@ -118,7 +113,7 @@ If you want to access the prototype, click ➡️ [here](https://github.com/algo
 A very interesting idea, that was very cleverly prototyped using a combination of Unreal, Ink, and pen-and-paper elements. Adequate instructions and guidance were provided; Interesting UI choices. Well organized testing of the game, but the team should have been more attentive at how testers played and note their reactions; the development seems to be doing well. The playtesting questions were not as detailed as they should have been; some wrong questions were asked. Average presentation of the results, and the roadmap ahead.
 `
 
-### 6. Demo
+### 5. Demo
 
 The demo consists of our game.
 We have a main menu, part of jail, an enigma and a guard.
@@ -130,22 +125,22 @@ The guard is supposed to react to a sound (like a rock that have been thrown by 
 The test environment was decently prepared, and the testing was conducted in an appropriate manner. Players were presented with enough information to try out the game, even if the team didn't know what exactly to search for. What's more, both puzzles -despite the instructions- demanded far too specific solutions, that in turn required advice by the dev team. As for the demo itself, it still seemed too early in production. The graphics were untextured, player progress was not obvious, no hints were provided in game, and the demo should have been more complete. This would have allowed for a meaningful testing session. The demo itself was stable if simple, but not all interactions worked as they should have.
 `
 
-### 7. Delivery Platform & Hardware - Software Requirements
+### 6. Delivery Platform & Hardware - Software Requirements
 
 The delivery harware will be computers like Windows, MacOS and Linux.
 Steam or Epic Games Store will be the main platforms.
 
-### 8. Marketing & Fundings
+### 7. Marketing & Fundings
 
-#### 8.1 🔸 Platforms & Monetization
+#### 7.1 🔸 Platforms & Monetization
 
 The main devices are PC like Windows, Mac and Linux. The game will be on 2 different platforms: Steam and Epic Games Store. The game will be free to play.
 
-#### 8.2 🔸 Localization
+#### 7.2 🔸 Localization
 
 The game will be in english. So anyone who speaks english will be able to play.
 
-### 9. Other Ideas
+### 8. Other Ideas
 
 We thought about adding a multiplayer mode where you can play with your friends.
 We also thought about new mazes and new puzzles, so new games.
