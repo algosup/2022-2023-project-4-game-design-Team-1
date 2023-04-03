@@ -64,5 +64,5 @@
 
 | Morning / Afternoon | Monday | Tuesday | Wenesday | Thursday | Friday |
 | :-----: | :----: | :-----: | :------: | :------: | :----: |
-| Morning   | ❌ | ❌ | ❌ | ❌ | ❌ |
-| Afternoon | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Morning   | public holiday | ❌ | ❌ | ✅ | Oral |
+| Afternoon | public holiday | ✅ | ✅ | ❌ | Oral |
