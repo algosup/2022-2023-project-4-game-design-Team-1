@@ -37,8 +37,10 @@
 
 # Week 5
 
-Meeting.
+Meeting at the end of the week and we continue to improve the game with mechanics, design and object.
 
 # Week 6
+
+Meeting at the end of the week and we continue to improve the game with mechanics, design and object.
 
 # Week 7
