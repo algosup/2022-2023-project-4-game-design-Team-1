@@ -44,3 +44,5 @@ Meeting at the end of the week and we continue to improve the game with mechanic
 Meeting at the end of the week and we continue to improve the game with mechanics, design and object.
 
 # Week 7
+
+We do the finishing touches and prepare the presentation.
