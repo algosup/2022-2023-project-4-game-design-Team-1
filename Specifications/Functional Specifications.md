@@ -107,28 +107,24 @@
 
 - To finish the game, the player has to solve 3 puzzles:
   - Buttons
-  - Statue
-  - Piano
+  - The 9 plates
+  - Puzzle
 
 ##### 9.1 🔸 Buttons
 
 - The player has to press the buttons in the right order to open the door, there is 5 buttons in the room and 5 colors (Red, Blue, Green, Yellow, Purple).
-- The player need to find that the last letter of each word correspond to the color and the order [**Map**, **Warthog**, **Blob**, **Gray**, **Floor**]. If the player is too long to find the trick we’ll give him a clue like a sentence to help him.
+- The player need to find that the first letter of each word correspond to the color and the order [**Prison**, **Gaol**, **Brig**, **Yard**, **Remand**].
 - The solution is to click on the buttons in the order : [**Purple , Green , Blue , Yellow , Red**].
 - Once the player will get the code, he could escape the first room.
 
-##### 9.2 🔸 Statues
+##### 9.2 🔸 The 9 plates
 
-- Different statue parts across the jail need to be found to build the statue and discover a secret message.
-
-- After assembling the statue, the player will receive a coded message that you will need to decipher. To decipher the message, you will need to find a piece of paper in the room. This piece of paper will translate the symbols on the statue.
-
-- Once the player will get the code, he could escape the second room.
+- The game requires the player to step on nine plates to turn them blue.
+- Once all nine plates are blue, a door opens, allowing the player to progress to the next level.
 
 ##### 9.3 🔸 Piano
 
-- The player has to play a piece of piano to open the door.
-- If he plays a wrong note, he will need to restart from scratch.
+- The player has to complete a puzzle to open the door.
 
 ##### 9.4 🔸 Between each puzzle, the player will have to escape guards
 

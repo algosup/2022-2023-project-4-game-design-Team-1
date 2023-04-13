@@ -54,8 +54,8 @@
     - [2. Choice of game engine](#2-choice-of-game-engine)
     - [3. Diagrams (flowcharts) to Illustrate Mechanics Design](#3-diagrams-flowcharts-to-illustrate-mechanics-design)
       - [3.1 🔸 Buttons Enigma Flowchart](#31--buttons-enigma-flowchart)
-      - [3.2 🔸 Piano Enigma Flowchart](#32--piano-enigma-flowchart)
-      - [3.3 🔸 Statue Enigma Flowchart](#33--statue-enigma-flowchart)
+      - [3.2 🔸 The 9 Plates Enigma Flowchart](#32--the-9-plates-enigma-flowchart)
+      - [3.3 🔸 Puzzle Enigma Flowchart](#33--puzzle-enigma-flowchart)
       - [3.4 🔸 Guard Flowchart](#34--guard-flowchart)
     - [4. Art tool](#4-art-tool)
     - [5. 3D Objects, Terrain, \& Scene Management](#5-3d-objects-terrain--scene-management)
@@ -171,7 +171,7 @@ The story takes place in a prison, our player must escape from this prison and w
 
 #### 2.2 Story Progression
 
-By completing a puzzle and depending on his progress, the player will unlock or not new accessible parts in the prison.
+By completing a puzzle and depending on his progress, the player will unlock new accessible parts in the prison.
 
 ### 3. Gameplay
 
@@ -199,7 +199,7 @@ Here is a list of the game mechanics that (are implemented (✅)) - (are not imp
 | Friend | Narrative Clue | The player can talk to a friend to get a clue for the puzzle. The friend will be a rat | ❎ |
 | Flashlight | Gameplay | Can use a flashlight to light up and when he will have to find battery | ❎ |
 | Beanbag Gun | Gameplay | After stealing it from a guard he can use it to knock out other guards | ❎ |
-| Hidden Object Hunting | Search & Find | The player must explore the jail environment to find hidden objects that will help them solve the enigmas and escape the prison | ❎ |
+| Hidden Object Hunting | Search & Find | The player must explore the jail environment to find hidden objects that will help them solve the enigmas and escape the prison | ✅ |
 | Stealth | Avoidance | The player must avoid guards and other obstacles while navigating the prison. They may need to sneak past guards, hide behind objects, or distract guards to progress | ✅ |
 | Time-based challenges | Timed | The player must complete certain tasks within a set amount of time, such as escaping their cell before the guards return from their patrol | ❎ |
 
@@ -210,15 +210,16 @@ The following table shows the enigmas and their difficulty:
 
 | Enigma | Goal of the enigma | Difficulty (1:"easy" - 2 :"hard") |
 | :---: | :---: | :---: |
-| Buttons | Click on buttons in the right order | 1 |
-| Piano | A piece of music will be given to our player | 1 |
-| Statue | The player will need to complete the statue by finding the different parts of it | 2 |
+| Buttons | Click on buttons in the right order | 2 |
+| The 9 plates | The player must walk on plates to make them switch of color | 2 |
+| Puzzle | The player will have to complete a 16 pieces puzzle | 1 |
 
 Each puzzle will unlock a new area of the prison.
 
 #### 3.5 🔸 Losing
 
 The player will lose if he gets caught by the guards.
+I will have to restart from the beginning of his level
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -228,7 +229,7 @@ The player will lose if he gets caught by the guards.
 
 Game cover image
 <br>
-<img src="../Images/Mind%20Maze%20Jail%20Escape%20Edition.jpg" alt="Mind Maze: Jail Escape Edition">
+<img src="../Images/Mind%20Maze%20Jail%20Escape%20Edition.jpg">
 
 Main menu
 <br>
@@ -241,6 +242,24 @@ Simple guard
 First enigma
 <br>
 <img src="../Images/Enigma1.png">
+
+Second enigma
+<br>
+<img src="../Images/Enigma2.png">
+
+Third enigma
+<br>
+<img src="../Images/Enigma3_1.png">
+<img src="../Images/Enigma3_2.png">
+<img src="../Images/Enigma3_3.png">
+
+Screwdriver
+<br>
+<img src="../Images/Screwdriver.png">
+
+In-game screenshot
+<br>
+<img src="../Images/InGame.png">
 
 ### 2. Choice of game engine
 
@@ -270,13 +289,13 @@ Overall, these features make Unreal Engine 4.27 a powerful tool for game develop
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-#### 3.2 🔸 Piano Enigma Flowchart
+#### 3.2 🔸 The 9 Plates Enigma Flowchart
 
 <img src="../Images/Flowchart%20Game%20Design2.jpg">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-#### 3.3 🔸 Statue Enigma Flowchart
+#### 3.3 🔸 Puzzle Enigma Flowchart
 
 <img src="../Images/Flowchart%20Game%20Design3.jpg">
 
@@ -348,6 +367,14 @@ Blueprint representation of grabing an object:
 Blueprint representation when the rock touches something:
 
 <img src="../Images/Sound%20effect.png">
+
+<hr>
+
+[Sound 1](https://www.auboutdufil.com/index.php?id=505#downloads)
+Sound use for the main menu
+
+[Sound 2](https://www.youtube.com/watch?v=MlANLph8vAY)
+Sound use in game
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
