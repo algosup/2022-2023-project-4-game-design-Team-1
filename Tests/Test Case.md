@@ -29,6 +29,7 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | 1.1 | I tested the main menu | To see if the buttons works well | Changing widget when clicking on buttons | Yes | Alexandre | I have to improve the widgets |
 | 1.2 | I added and tested the sets | To see if the sets have been well implemented | The sets are well implemented | Yes | Audrey | ❌ |
+| 1.3 | I test the fullscreen in the main menu |  To see if the fullscreen work | Yes but we can't go out fullscreen | Rémy | See if Is work on the app |
 
 
 ### 2. Interactions 🗣️
