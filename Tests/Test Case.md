@@ -29,7 +29,7 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | 1.1 | I tested the main menu | To see if the buttons works well | Changing widget when clicking on buttons | Yes | Alexandre | I have to improve the widgets |
 | 1.2 | I added and tested the sets | To see if the sets have been well implemented | The sets are well implemented | Yes | Audrey | ❌ |
-| 1.3 | I test the fullscreen in the main menu |  To see if the fullscreen work | Yes but we can't go out fullscreen | Rémy | See if Is work on the app |
+| 1.3 | I test the fullscreen in the main menu |  To see if the fullscreen work | Yes but we can't go out fullscreen | Audrey | See if it works on the app |
 
 
 ### 2. Interactions 🗣️
@@ -38,6 +38,7 @@
 |:---:|:----:|:---:|:----:|:----:|:----:|:----:|
 | 2.1 | I tested the guard reaction | To see if the guard has been well implemented | The guard move when we throw a rock | Yes | Rémy | ❌ |
 | 2.2 | I tested if the guard can see us | To see if the guard has been well implemented | The guard can see us | Yes | Rémy | I decided to add a "light" which represent the field of vision of this one |
+| 2.3 | the screwdriver | Take screwdriver | Take screwdriver when you tap in E | No but now yes | Audrey | ❌ |
 
 ### 3. Enigmas ⚙️
 
